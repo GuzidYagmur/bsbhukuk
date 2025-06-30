@@ -1,0 +1,28 @@
+{
+  "title": "What to Expect After Being Charged with a DUI",
+  "excerpt": "Being charged with a DUI can have serious consequences, including fines, license suspension, and even jail time.",
+  "date": "2023-03-10T00:00:00.000Z",
+  "image": "/images/project-2-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "Criminal Law",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\nBeing charged with a DUI can have serious consequences, including fines, license suspension, and even jail time. This post breaks down what happens next, from the arraignment to the trial, and highlights the importance of meeting all legal deadlines. We’ll also discuss how penalties can vary based on factors like blood alcohol level and prior offenses.\n\nHiring an experienced DUI attorney can make a significant difference in your case. We’ll explain how an attorney can challenge the evidence against you, negotiate plea bargains, or even get charges reduced. Being proactive is key to mitigating the long-term impacts of a DUI conviction.\n",
+    "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),v=(e,n)=>{for(var a in n)o(e,a,{get:n[a],enumerable:!0})},r=(e,n,a,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of m(n))!f.call(e,i)&&i!==a&&o(e,i,{get:()=>n[i],enumerable:!(s=p(n,i))||s.enumerable});return e};var j=(e,n,a)=>(a=e!=null?d(u(e)):{},r(n||!e||!e.__esModule?o(a,\"default\",{value:e,enumerable:!0}):a,e)),w=e=>r(o({},\"__esModule\",{value:!0}),e);var l=x((C,c)=>{c.exports=_jsx_runtime});var D={};v(D,{default:()=>h,frontmatter:()=>y});var t=j(l()),y={title:\"What to Expect After Being Charged with a DUI\",excerpt:\"Being charged with a DUI can have serious consequences, including fines, license suspension, and even jail time.\",date:\"2023-03-10\",author:\"JoefreyCodes\",categories:[{title:\"Criminal Law\"}],type:\"Post\",image:\"/images/project-2-min.jpg\"};function g(e){let n={p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:\"Being charged with a DUI can have serious consequences, including fines, license suspension, and even jail time. This post breaks down what happens next, from the arraignment to the trial, and highlights the importance of meeting all legal deadlines. We\\u2019ll also discuss how penalties can vary based on factors like blood alcohol level and prior offenses.\"}),`\n`,(0,t.jsx)(n.p,{children:\"Hiring an experienced DUI attorney can make a significant difference in your case. We\\u2019ll explain how an attorney can challenge the evidence against you, negotiate plea bargains, or even get charges reduced. Being proactive is key to mitigating the long-term impacts of a DUI conviction.\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(g,{...e})}):g(e)}return w(D);})();\n;return Component;"
+  },
+  "_id": "blog/what-to-expect-after-dui-charge.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/what-to-expect-after-dui-charge.mdx",
+    "sourceFileName": "what-to-expect-after-dui-charge.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/what-to-expect-after-dui-charge"
+  },
+  "type": "Post",
+  "url": "/blog/what-to-expect-after-dui-charge"
+}

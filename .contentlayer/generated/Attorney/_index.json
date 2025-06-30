@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Yakup Haluk Başaran",
+    "date": "2019-01-23T00:00:00.000Z",
+    "image": "/images/Haluk.jpg",
+    "order": "1",
+    "expertise": "Avukat",
+    "email": "av.halukbasaran@gmail.com",
+    "phone": "+90 538 942 62 80",
+    "body": {
+      "raw": "\nWith over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\n",
+      "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),k=(e,a)=>{for(var n in a)t(e,n,{get:a[n],enumerable:!0})},c=(e,a,n,o)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of f(a))!g.call(e,r)&&r!==n&&t(e,r,{get:()=>a[r],enumerable:!(o=d(a,r))||o.enumerable});return e};var v=(e,a,n)=>(n=e!=null?p(h(e)):{},c(a||!e||!e.__esModule?t(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>c(t({},\"__esModule\",{value:!0}),e);var m=x((_,s)=>{s.exports=_jsx_runtime});var y={};k(y,{default:()=>l,frontmatter:()=>w});var i=v(m()),w={name:\"Yakup Haluk Ba\\u015Faran\",type:\"Attorney\",date:\"2019-01-23\",order:\"1\",expertise:\"Avukat\",image:\"/images/Haluk.jpg\",phone:\"+90 538 942 62 80\",email:\"av.halukbasaran@gmail.com\"};function u(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"With over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\"})}function l(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(u,{...e})}):u(e)}return j(y);})();\n;return Component;"
+    },
+    "_id": "attorneys/01-halukbasaran.mdx",
+    "_raw": {
+      "sourceFilePath": "attorneys/01-halukbasaran.mdx",
+      "sourceFileName": "01-halukbasaran.mdx",
+      "sourceFileDir": "attorneys",
+      "contentType": "mdx",
+      "flattenedPath": "attorneys/01-halukbasaran"
+    },
+    "type": "Attorney",
+    "url": "/attorneys/01-halukbasaran"
+  },
+  {
+    "name": "Mehmet Yavuz Sancaktaroğlu",
+    "date": "2019-01-23T00:00:00.000Z",
+    "image": "/images/Yavuz.jpg",
+    "order": "2",
+    "expertise": "Avukat",
+    "email": "av.yavuzsancaktaroglu@gmail.com",
+    "phone": "+90 507 384 48 20",
+    "body": {
+      "raw": "\nMike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\n",
+      "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),v=(e,a)=>{for(var t in a)o(e,t,{get:a[t],enumerable:!0})},s=(e,a,t,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let n of g(a))!f.call(e,n)&&n!==t&&o(e,n,{get:()=>a[n],enumerable:!(r=d(a,n))||r.enumerable});return e};var y=(e,a,t)=>(t=e!=null?p(h(e)):{},s(a||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),k=e=>s(o({},\"__esModule\",{value:!0}),e);var m=x((w,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>u,frontmatter:()=>M});var i=y(m()),M={name:\"Mehmet Yavuz Sancaktaro\\u011Flu\",type:\"Attorney\",date:\"2019-01-23\",order:\"2\",expertise:\"Avukat\",image:\"/images/Yavuz.jpg\",phone:\"+90 507 384 48 20\",email:\"av.yavuzsancaktaroglu@gmail.com\"};function l(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"Mike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\"})}function u(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(l,{...e})}):l(e)}return k(_);})();\n;return Component;"
+    },
+    "_id": "attorneys/02-yavuzsancaktaroglu.mdx",
+    "_raw": {
+      "sourceFilePath": "attorneys/02-yavuzsancaktaroglu.mdx",
+      "sourceFileName": "02-yavuzsancaktaroglu.mdx",
+      "sourceFileDir": "attorneys",
+      "contentType": "mdx",
+      "flattenedPath": "attorneys/02-yavuzsancaktaroglu"
+    },
+    "type": "Attorney",
+    "url": "/attorneys/02-yavuzsancaktaroglu"
+  }
+]

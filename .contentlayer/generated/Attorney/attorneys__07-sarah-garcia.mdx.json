@@ -1,0 +1,23 @@
+{
+  "name": "Sarah Garcia",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/lawyer-7-min.jpg",
+  "order": "5",
+  "expertise": "Criminal Defense Law",
+  "email": "david@mydomain.com",
+  "phone": "+1 2932 2192 221",
+  "body": {
+    "raw": "\nSarah Garcia is a compassionate family law attorney who is passionate about helping individuals and families navigate difficult legal issues such as divorce, child custody, and domestic violence. With her empathetic approach and extensive knowledge of family law, Sarah strives to achieve positive outcomes for her clients while minimizing the emotional and financial toll of legal proceedings.",
+    "code": "var Component=(()=>{var h=Object.create;var n=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var v=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),x=(e,a)=>{for(var i in a)n(e,i,{get:a[i],enumerable:!0})},s=(e,a,i,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let t of f(a))!g.call(e,t)&&t!==i&&n(e,t,{get:()=>a[t],enumerable:!(r=p(a,t))||r.enumerable});return e};var y=(e,a,i)=>(i=e!=null?h(u(e)):{},s(a||!e||!e.__esModule?n(i,\"default\",{value:e,enumerable:!0}):i,e)),w=e=>s(n({},\"__esModule\",{value:!0}),e);var l=v((D,c)=>{c.exports=_jsx_runtime});var j={};x(j,{default:()=>d,frontmatter:()=>_});var o=y(l()),_={name:\"Sarah Garcia\",type:\"Attorney\",date:\"2019-01-23\",order:\"5\",expertise:\"Criminal Defense Law\",image:\"/images/lawyer-7-min.jpg\",phone:\"+1 2932 2192 221\",email:\"david@mydomain.com\"};function m(e){let a={p:\"p\",...e.components};return(0,o.jsx)(a.p,{children:\"Sarah Garcia is a compassionate family law attorney who is passionate about helping individuals and families navigate difficult legal issues such as divorce, child custody, and domestic violence. With her empathetic approach and extensive knowledge of family law, Sarah strives to achieve positive outcomes for her clients while minimizing the emotional and financial toll of legal proceedings.\"})}function d(e={}){let{wrapper:a}=e.components||{};return a?(0,o.jsx)(a,{...e,children:(0,o.jsx)(m,{...e})}):m(e)}return w(j);})();\n;return Component;"
+  },
+  "_id": "attorneys/07-sarah-garcia.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/07-sarah-garcia.mdx",
+    "sourceFileName": "07-sarah-garcia.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/07-sarah-garcia"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/07-sarah-garcia"
+}

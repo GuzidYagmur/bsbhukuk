@@ -1,0 +1,28 @@
+{
+  "title": "How to File a Personal Injury Claim: A Step-by-Step Guide",
+  "excerpt": "If you’ve been injured due to someone else’s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering.",
+  "date": "2023-05-21T00:00:00.000Z",
+  "image": "/images/project-4-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "Personal Injury Law",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\nIf you’ve been injured due to someone else’s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering. This post explains the process, from documenting the incident and seeking medical attention to negotiating with insurance companies.\n\nWe’ll also highlight common pitfalls, such as missing deadlines or accepting lowball settlement offers. Consulting a personal injury attorney ensures that your claim is strong and that you receive the compensation you deserve.\n",
+    "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var y=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),j=(e,n)=>{for(var o in n)s(e,o,{get:n[o],enumerable:!0})},r=(e,n,o,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of g(n))!h.call(e,i)&&i!==o&&s(e,i,{get:()=>n[i],enumerable:!(a=d(n,i))||a.enumerable});return e};var x=(e,n,o)=>(o=e!=null?p(f(e)):{},r(n||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),w=e=>r(s({},\"__esModule\",{value:!0}),e);var c=y((C,l)=>{l.exports=_jsx_runtime});var b={};j(b,{default:()=>m,frontmatter:()=>_});var t=x(c()),_={title:\"How to File a Personal Injury Claim: A Step-by-Step Guide\",excerpt:\"If you\\u2019ve been injured due to someone else\\u2019s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering.\",date:\"2023-05-21\",author:\"JoefreyCodes\",categories:[{title:\"Personal Injury Law\"}],type:\"Post\",image:\"/images/project-4-min.jpg\"};function u(e){let n={p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:\"If you\\u2019ve been injured due to someone else\\u2019s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering. This post explains the process, from documenting the incident and seeking medical attention to negotiating with insurance companies.\"}),`\n`,(0,t.jsx)(n.p,{children:\"We\\u2019ll also highlight common pitfalls, such as missing deadlines or accepting lowball settlement offers. Consulting a personal injury attorney ensures that your claim is strong and that you receive the compensation you deserve.\"})]})}function m(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(u,{...e})}):u(e)}return w(b);})();\n;return Component;"
+  },
+  "_id": "blog/how-to-file-personal-injury-claim.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/how-to-file-personal-injury-claim.mdx",
+    "sourceFileName": "how-to-file-personal-injury-claim.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/how-to-file-personal-injury-claim"
+  },
+  "type": "Post",
+  "url": "/blog/how-to-file-personal-injury-claim"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Understanding Child Custody Laws: What Every Parent Should Know",
+  "excerpt": "Technology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design ",
+  "date": "2023-05-21T00:00:00.000Z",
+  "image": "/images/project-3-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "Family Law",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\nTechnology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design are revolutionizing architectural practices. Dive into case studies of projects that have harnessed technology to push the boundaries of what's possible in design.\n\nWe'll also examine the sustainability aspect, exploring how architects are using technology to create energy-efficient buildings and reduce the industry's carbon footprint. From intelligent building management systems to AI-driven design optimization, discover the latest tech trends shaping the future of architecture.\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var i in t)r(e,i,{get:t[i],enumerable:!0})},a=(e,t,i,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of p(t))!f.call(e,o)&&o!==i&&r(e,o,{get:()=>t[o],enumerable:!(s=u(t,o))||s.enumerable});return e};var w=(e,t,i)=>(i=e!=null?g(m(e)):{},a(t||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),b=e=>a(r({},\"__esModule\",{value:!0}),e);var l=y((C,c)=>{c.exports=_jsx_runtime});var v={};x(v,{default:()=>h,frontmatter:()=>j});var n=w(l()),j={title:\"Understanding Child Custody Laws: What Every Parent Should Know\",excerpt:\"Technology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design \",date:\"2023-05-21\",author:\"JoefreyCodes\",categories:[{title:\"Family Law\"}],type:\"Post\",image:\"/images/project-3-min.jpg\"};function d(e){let t={p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:\"Technology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design are revolutionizing architectural practices. Dive into case studies of projects that have harnessed technology to push the boundaries of what's possible in design.\"}),`\n`,(0,n.jsx)(t.p,{children:\"We'll also examine the sustainability aspect, exploring how architects are using technology to create energy-efficient buildings and reduce the industry's carbon footprint. From intelligent building management systems to AI-driven design optimization, discover the latest tech trends shaping the future of architecture.\"})]})}function h(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return b(v);})();\n;return Component;"
+  },
+  "_id": "blog/understanding-child-custody-laws.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/understanding-child-custody-laws.mdx",
+    "sourceFileName": "understanding-child-custody-laws.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/understanding-child-custody-laws"
+  },
+  "type": "Post",
+  "url": "/blog/understanding-child-custody-laws"
+}

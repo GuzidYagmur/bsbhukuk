@@ -1,0 +1,23 @@
+{
+  "name": "Emily Harper",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/lawyer-3-min.jpg",
+  "order": "5",
+  "expertise": "Family Law",
+  "email": "david@mydomain.com",
+  "phone": "+1 2932 2192 221",
+  "body": {
+    "raw": "\nEmily Harper is a compassionate family attorney known for her empathy and dedication to protecting the interests of children and families. After graduating from UCLA School of Law, she pursued a career in family law, specializing in divorce, child custody, and domestic violence cases. Emily is recognized for her ability to resolve conflicts amicably through mediation while fiercely advocating for her clients in court when necessary.",
+    "code": "var Component=(()=>{var y=Object.create;var o=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),w=(e,t)=>{for(var n in t)o(e,n,{get:t[n],enumerable:!0})},c=(e,t,n,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of p(t))!u.call(e,i)&&i!==n&&o(e,i,{get:()=>t[i],enumerable:!(a=f(t,i))||a.enumerable});return e};var x=(e,t,n)=>(n=e!=null?y(h(e)):{},c(t||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),v=e=>c(o({},\"__esModule\",{value:!0}),e);var m=g((A,s)=>{s.exports=_jsx_runtime});var j={};w(j,{default:()=>d,frontmatter:()=>_});var r=x(m()),_={name:\"Emily Harper\",type:\"Attorney\",date:\"2019-01-23\",order:\"5\",expertise:\"Family Law\",image:\"/images/lawyer-3-min.jpg\",phone:\"+1 2932 2192 221\",email:\"david@mydomain.com\"};function l(e){let t={p:\"p\",...e.components};return(0,r.jsx)(t.p,{children:\"Emily Harper is a compassionate family attorney known for her empathy and dedication to protecting the interests of children and families. After graduating from UCLA School of Law, she pursued a career in family law, specializing in divorce, child custody, and domestic violence cases. Emily is recognized for her ability to resolve conflicts amicably through mediation while fiercely advocating for her clients in court when necessary.\"})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(l,{...e})}):l(e)}return v(j);})();\n;return Component;"
+  },
+  "_id": "attorneys/05-emily-harper.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/05-emily-harper.mdx",
+    "sourceFileName": "05-emily-harper.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/05-emily-harper"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/05-emily-harper"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "What to Do If You’re Facing a Lawsuit",
+  "excerpt": "Facing a lawsuit can be overwhelming, but your response during the initial stages is crucial.",
+  "date": "2023-03-01T00:00:00.000Z",
+  "image": "/images/post-1-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "General Legal Advice",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\nFacing a lawsuit can be overwhelming, but your response during the initial stages is crucial. This post explains what to do if you receive a legal complaint, including reviewing the documents carefully, understanding the claims against you, and meeting all deadlines. Taking these steps promptly can prevent default judgments and protect your rights.\n\nWe’ll also discuss the importance of hiring an experienced attorney who can help you build a solid defense and explore alternative resolutions, such as mediation or settlement. With the right strategy and legal guidance, you can navigate this stressful situation with confidence.\n",
+    "code": "var Component=(()=>{var g=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var a in t)s(e,a,{get:t[a],enumerable:!0})},r=(e,t,a,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of p(t))!f.call(e,i)&&i!==a&&s(e,i,{get:()=>t[i],enumerable:!(o=h(t,i))||o.enumerable});return e};var w=(e,t,a)=>(a=e!=null?g(m(e)):{},r(t||!e||!e.__esModule?s(a,\"default\",{value:e,enumerable:!0}):a,e)),v=e=>r(s({},\"__esModule\",{value:!0}),e);var c=y((F,l)=>{l.exports=_jsx_runtime});var _={};x(_,{default:()=>d,frontmatter:()=>j});var n=w(c()),j={title:\"What to Do If You\\u2019re Facing a Lawsuit\",excerpt:\"Facing a lawsuit can be overwhelming, but your response during the initial stages is crucial.\",date:\"2023-03-01\",author:\"JoefreyCodes\",categories:[{title:\"General Legal Advice\"}],type:\"Post\",image:\"/images/post-1-min.jpg\"};function u(e){let t={p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:\"Facing a lawsuit can be overwhelming, but your response during the initial stages is crucial. This post explains what to do if you receive a legal complaint, including reviewing the documents carefully, understanding the claims against you, and meeting all deadlines. Taking these steps promptly can prevent default judgments and protect your rights.\"}),`\n`,(0,n.jsx)(t.p,{children:\"We\\u2019ll also discuss the importance of hiring an experienced attorney who can help you build a solid defense and explore alternative resolutions, such as mediation or settlement. With the right strategy and legal guidance, you can navigate this stressful situation with confidence.\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(u,{...e})}):u(e)}return v(_);})();\n;return Component;"
+  },
+  "_id": "blog/what-to-do-facing-lawsuit.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/what-to-do-facing-lawsuit.mdx",
+    "sourceFileName": "what-to-do-facing-lawsuit.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/what-to-do-facing-lawsuit"
+  },
+  "type": "Post",
+  "url": "/blog/what-to-do-facing-lawsuit"
+}

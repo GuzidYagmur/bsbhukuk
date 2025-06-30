@@ -1,0 +1,23 @@
+{
+  "name": "George Brown",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/lawyer-1-min.jpg",
+  "order": "3",
+  "expertise": "Intellectual Property Law",
+  "email": "sophia@mydomain.com",
+  "phone": "+1 2932 2192 221",
+  "body": {
+    "raw": "\nGeorge Brown is a trailblazer in the field of intellectual property law, specializing in patents, trademarks, and copyright matters. A graduate of Yale Law School, she combines her legal expertise with a deep understanding of technology and innovation. Sophia has successfully represented startups, tech giants, and creative individuals in safeguarding their intellectual assets and resolving disputes in rapidly evolving industries.",
+    "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of g(t))!f.call(e,a)&&a!==n&&i(e,a,{get:()=>t[a],enumerable:!(o=m(t,a))||o.enumerable});return e};var w=(e,t,n)=>(n=e!=null?u(h(e)):{},s(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),v=e=>s(i({},\"__esModule\",{value:!0}),e);var c=y((M,l)=>{l.exports=_jsx_runtime});var j={};x(j,{default:()=>p,frontmatter:()=>_});var r=w(c()),_={name:\"George Brown\",type:\"Attorney\",date:\"2019-01-23\",order:\"3\",expertise:\"Intellectual Property Law\",image:\"/images/lawyer-1-min.jpg\",phone:\"+1 2932 2192 221\",email:\"sophia@mydomain.com\"};function d(e){let t={p:\"p\",...e.components};return(0,r.jsx)(t.p,{children:\"George Brown is a trailblazer in the field of intellectual property law, specializing in patents, trademarks, and copyright matters. A graduate of Yale Law School, she combines her legal expertise with a deep understanding of technology and innovation. Sophia has successfully represented startups, tech giants, and creative individuals in safeguarding their intellectual assets and resolving disputes in rapidly evolving industries.\"})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(d,{...e})}):d(e)}return v(j);})();\n;return Component;"
+  },
+  "_id": "attorneys/03-george-brown.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/03-george-brown.mdx",
+    "sourceFileName": "03-george-brown.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/03-george-brown"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/03-george-brown"
+}

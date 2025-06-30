@@ -1,0 +1,23 @@
+{
+  "name": "Matthew Harris",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/lawyer-6-min.jpg",
+  "order": "5",
+  "expertise": "Tax Law",
+  "email": "david@mydomain.com",
+  "phone": "+1 2932 2192 221",
+  "body": {
+    "raw": "\nMatthew Harris is a highly skilled tax attorney with a deep understanding of federal and state tax laws. With experience in tax planning, controversy resolution, and corporate tax matters, Matthew assists individuals and businesses in navigating complex tax issues, optimizing their tax positions, and ensuring compliance with ever-changing tax regulations. His strategic advice and personalized approach help clients achieve their financial objectives while minimizing tax liabilities.",
+    "code": "var Component=(()=>{var m=Object.create;var a=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var w=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var i in t)a(e,i,{get:t[i],enumerable:!0})},o=(e,t,i,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of h(t))!u.call(e,n)&&n!==i&&a(e,n,{get:()=>t[n],enumerable:!(r=x(t,n))||r.enumerable});return e};var v=(e,t,i)=>(i=e!=null?m(g(e)):{},o(t||!e||!e.__esModule?a(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>o(a({},\"__esModule\",{value:!0}),e);var d=w((b,c)=>{c.exports=_jsx_runtime});var j={};f(j,{default:()=>p,frontmatter:()=>M});var s=v(d()),M={name:\"Matthew Harris\",type:\"Attorney\",date:\"2019-01-23\",order:\"5\",expertise:\"Tax Law\",image:\"/images/lawyer-6-min.jpg\",phone:\"+1 2932 2192 221\",email:\"david@mydomain.com\"};function l(e){let t={p:\"p\",...e.components};return(0,s.jsx)(t.p,{children:\"Matthew Harris is a highly skilled tax attorney with a deep understanding of federal and state tax laws. With experience in tax planning, controversy resolution, and corporate tax matters, Matthew assists individuals and businesses in navigating complex tax issues, optimizing their tax positions, and ensuring compliance with ever-changing tax regulations. His strategic advice and personalized approach help clients achieve their financial objectives while minimizing tax liabilities.\"})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,s.jsx)(t,{...e,children:(0,s.jsx)(l,{...e})}):l(e)}return y(j);})();\n;return Component;"
+  },
+  "_id": "attorneys/08-matthew-harris.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/08-matthew-harris.mdx",
+    "sourceFileName": "08-matthew-harris.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/08-matthew-harris"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/08-matthew-harris"
+}

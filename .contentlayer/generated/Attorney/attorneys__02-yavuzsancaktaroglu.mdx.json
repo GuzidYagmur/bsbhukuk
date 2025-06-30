@@ -1,0 +1,23 @@
+{
+  "name": "Mehmet Yavuz Sancaktaroğlu",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/Yavuz.jpg",
+  "order": "2",
+  "expertise": "Avukat",
+  "email": "av.yavuzsancaktaroglu@gmail.com",
+  "phone": "+90 507 384 48 20",
+  "body": {
+    "raw": "\nMike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\n",
+    "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),v=(e,a)=>{for(var t in a)o(e,t,{get:a[t],enumerable:!0})},s=(e,a,t,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let n of g(a))!f.call(e,n)&&n!==t&&o(e,n,{get:()=>a[n],enumerable:!(r=d(a,n))||r.enumerable});return e};var y=(e,a,t)=>(t=e!=null?p(h(e)):{},s(a||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),k=e=>s(o({},\"__esModule\",{value:!0}),e);var m=x((w,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>u,frontmatter:()=>M});var i=y(m()),M={name:\"Mehmet Yavuz Sancaktaro\\u011Flu\",type:\"Attorney\",date:\"2019-01-23\",order:\"2\",expertise:\"Avukat\",image:\"/images/Yavuz.jpg\",phone:\"+90 507 384 48 20\",email:\"av.yavuzsancaktaroglu@gmail.com\"};function l(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"Mike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\"})}function u(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(l,{...e})}):l(e)}return k(_);})();\n;return Component;"
+  },
+  "_id": "attorneys/02-yavuzsancaktaroglu.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/02-yavuzsancaktaroglu.mdx",
+    "sourceFileName": "02-yavuzsancaktaroglu.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/02-yavuzsancaktaroglu"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/02-yavuzsancaktaroglu"
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "title": "The Ultimate Divorce Checklist: Steps to Take Before Filing",
+    "excerpt": "Divorce is not just an emotional decision; it’s a legal process that requires preparation.",
+    "date": "2023-02-12T00:00:00.000Z",
+    "image": "/images/post-2-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "Family Law",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\n## Divorce is not just an Emotional\n\nDivorce is not just an emotional decision; it’s a legal process that requires preparation. This post provides a checklist to help individuals get organized, from gathering financial records to understanding property division laws in your state. Proper preparation can save time, money, and unnecessary stress during the proceedings.\n\n## Discuss Emotional Readiness\n\nWe’ll also discuss emotional readiness, such as seeking support from friends, family, or counselors, and understanding the impact of divorce on children. By planning ahead, you can navigate the process with clarity and confidence.\n",
+      "code": "var Component=(()=>{var h=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),v=(n,e)=>{for(var i in e)o(n,i,{get:e[i],enumerable:!0})},r=(n,e,i,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!f.call(n,s)&&s!==i&&o(n,s,{get:()=>e[s],enumerable:!(a=m(e,s))||a.enumerable});return n};var x=(n,e,i)=>(i=n!=null?h(g(n)):{},r(e||!n||!n.__esModule?o(i,\"default\",{value:n,enumerable:!0}):i,n)),j=n=>r(o({},\"__esModule\",{value:!0}),n);var d=y((w,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>p,frontmatter:()=>D});var t=x(d()),D={title:\"The Ultimate Divorce Checklist: Steps to Take Before Filing\",excerpt:\"Divorce is not just an emotional decision; it\\u2019s a legal process that requires preparation.\",date:\"2023-02-12\",author:\"JoefreyCodes\",categories:[{title:\"Family Law\"}],type:\"Post\",image:\"/images/post-2-min.jpg\"};function l(n){let e={h2:\"h2\",p:\"p\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Divorce is not just an Emotional\"}),`\n`,(0,t.jsx)(e.p,{children:\"Divorce is not just an emotional decision; it\\u2019s a legal process that requires preparation. This post provides a checklist to help individuals get organized, from gathering financial records to understanding property division laws in your state. Proper preparation can save time, money, and unnecessary stress during the proceedings.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Discuss Emotional Readiness\"}),`\n`,(0,t.jsx)(e.p,{children:\"We\\u2019ll also discuss emotional readiness, such as seeking support from friends, family, or counselors, and understanding the impact of divorce on children. By planning ahead, you can navigate the process with clarity and confidence.\"})]})}function p(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(l,{...n})}):l(n)}return j(_);})();\n;return Component;"
+    },
+    "_id": "blog/divorce-checklist-steps-to-take.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/divorce-checklist-steps-to-take.mdx",
+      "sourceFileName": "divorce-checklist-steps-to-take.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/divorce-checklist-steps-to-take"
+    },
+    "type": "Post",
+    "url": "/blog/divorce-checklist-steps-to-take"
+  },
+  {
+    "title": "How to File a Personal Injury Claim: A Step-by-Step Guide",
+    "excerpt": "If you’ve been injured due to someone else’s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering.",
+    "date": "2023-05-21T00:00:00.000Z",
+    "image": "/images/project-4-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "Personal Injury Law",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\nIf you’ve been injured due to someone else’s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering. This post explains the process, from documenting the incident and seeking medical attention to negotiating with insurance companies.\n\nWe’ll also highlight common pitfalls, such as missing deadlines or accepting lowball settlement offers. Consulting a personal injury attorney ensures that your claim is strong and that you receive the compensation you deserve.\n",
+      "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var y=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),j=(e,n)=>{for(var o in n)s(e,o,{get:n[o],enumerable:!0})},r=(e,n,o,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of g(n))!h.call(e,i)&&i!==o&&s(e,i,{get:()=>n[i],enumerable:!(a=d(n,i))||a.enumerable});return e};var x=(e,n,o)=>(o=e!=null?p(f(e)):{},r(n||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),w=e=>r(s({},\"__esModule\",{value:!0}),e);var c=y((C,l)=>{l.exports=_jsx_runtime});var b={};j(b,{default:()=>m,frontmatter:()=>_});var t=x(c()),_={title:\"How to File a Personal Injury Claim: A Step-by-Step Guide\",excerpt:\"If you\\u2019ve been injured due to someone else\\u2019s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering.\",date:\"2023-05-21\",author:\"JoefreyCodes\",categories:[{title:\"Personal Injury Law\"}],type:\"Post\",image:\"/images/project-4-min.jpg\"};function u(e){let n={p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:\"If you\\u2019ve been injured due to someone else\\u2019s negligence, filing a personal injury claim can help you recover compensation for medical bills, lost wages, and pain and suffering. This post explains the process, from documenting the incident and seeking medical attention to negotiating with insurance companies.\"}),`\n`,(0,t.jsx)(n.p,{children:\"We\\u2019ll also highlight common pitfalls, such as missing deadlines or accepting lowball settlement offers. Consulting a personal injury attorney ensures that your claim is strong and that you receive the compensation you deserve.\"})]})}function m(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(u,{...e})}):u(e)}return w(b);})();\n;return Component;"
+    },
+    "_id": "blog/how-to-file-personal-injury-claim.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/how-to-file-personal-injury-claim.mdx",
+      "sourceFileName": "how-to-file-personal-injury-claim.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/how-to-file-personal-injury-claim"
+    },
+    "type": "Post",
+    "url": "/blog/how-to-file-personal-injury-claim"
+  },
+  {
+    "title": "10 Legal Mistakes to Avoid When Starting a Business",
+    "excerpt": "Starting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages.",
+    "date": "2023-04-17T00:00:00.000Z",
+    "image": "/images/project-1-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "General Legal Advice",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\nStarting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages. Many entrepreneurs overlook critical elements such as choosing the right business structure, neglecting intellectual property protection, or failing to draft proper contracts. These oversights can lead to disputes, financial losses, or even the closure of your business. In this post, we’ll walk you through these common mistakes and provide tips to avoid them.\n\nAdditionally, we’ll discuss the importance of regulatory compliance, including zoning laws, employment regulations, and tax obligations. With the right legal foundation, you can focus on growing your business without fear of unexpected legal hurdles. Seeking advice from a business attorney early on is one of the smartest investments you can make.\n",
+      "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},r=(e,t,n,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of d(t))!y.call(e,o)&&o!==n&&i(e,o,{get:()=>t[o],enumerable:!(a=h(t,o))||a.enumerable});return e};var k=(e,t,n)=>(n=e!=null?m(p(e)):{},r(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>r(i({},\"__esModule\",{value:!0}),e);var c=f((_,l)=>{l.exports=_jsx_runtime});var v={};x(v,{default:()=>g,frontmatter:()=>j});var s=k(c()),j={title:\"10 Legal Mistakes to Avoid When Starting a Business\",excerpt:\"Starting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages.\",date:\"2023-04-17\",author:\"JoefreyCodes\",categories:[{title:\"General Legal Advice\"}],type:\"Post\",image:\"/images/project-1-min.jpg\"};function u(e){let t={p:\"p\",...e.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(t.p,{children:\"Starting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages. Many entrepreneurs overlook critical elements such as choosing the right business structure, neglecting intellectual property protection, or failing to draft proper contracts. These oversights can lead to disputes, financial losses, or even the closure of your business. In this post, we\\u2019ll walk you through these common mistakes and provide tips to avoid them.\"}),`\n`,(0,s.jsx)(t.p,{children:\"Additionally, we\\u2019ll discuss the importance of regulatory compliance, including zoning laws, employment regulations, and tax obligations. With the right legal foundation, you can focus on growing your business without fear of unexpected legal hurdles. Seeking advice from a business attorney early on is one of the smartest investments you can make.\"})]})}function g(e={}){let{wrapper:t}=e.components||{};return t?(0,s.jsx)(t,{...e,children:(0,s.jsx)(u,{...e})}):u(e)}return b(v);})();\n;return Component;"
+    },
+    "_id": "blog/legal-mistakes-starting-business.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/legal-mistakes-starting-business.mdx",
+      "sourceFileName": "legal-mistakes-starting-business.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/legal-mistakes-starting-business"
+    },
+    "type": "Post",
+    "url": "/blog/legal-mistakes-starting-business"
+  },
+  {
+    "title": "Top 5 Myths About Slip and Fall Cases",
+    "excerpt": "Slip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help.",
+    "date": "2023-01-04T00:00:00.000Z",
+    "image": "/images/post-3-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "Personal Injury Law",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\n## Misconceptions and Explain\n\nSlip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help. For instance, many people believe that warning signs negate liability or that minor injuries don’t qualify for claims. This post debunks these misconceptions and explains the true criteria for premises liability cases.\n\n## Using real-world examples\n\nUsing real-world examples, we’ll demonstrate how property owners can be held accountable for unsafe conditions. Understanding your rights can empower you to take action after an injury.\n",
+      "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),x=(n,e)=>{for(var i in e)r(n,i,{get:e[i],enumerable:!0})},o=(n,e,i,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!f.call(n,s)&&s!==i&&r(n,s,{get:()=>e[s],enumerable:!(a=h(e,s))||a.enumerable});return n};var w=(n,e,i)=>(i=n!=null?m(g(n)):{},o(e||!n||!n.__esModule?r(i,\"default\",{value:n,enumerable:!0}):i,n)),j=n=>o(r({},\"__esModule\",{value:!0}),n);var c=y((k,l)=>{l.exports=_jsx_runtime});var _={};x(_,{default:()=>p,frontmatter:()=>b});var t=w(c()),b={title:\"Top 5 Myths About Slip and Fall Cases\",excerpt:\"Slip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help.\",date:\"2023-01-04\",author:\"JoefreyCodes\",categories:[{title:\"Personal Injury Law\"}],type:\"Post\",image:\"/images/post-3-min.jpg\"};function d(n){let e={h2:\"h2\",p:\"p\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Misconceptions and Explain\"}),`\n`,(0,t.jsx)(e.p,{children:\"Slip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help. For instance, many people believe that warning signs negate liability or that minor injuries don\\u2019t qualify for claims. This post debunks these misconceptions and explains the true criteria for premises liability cases.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Using real-world examples\"}),`\n`,(0,t.jsx)(e.p,{children:\"Using real-world examples, we\\u2019ll demonstrate how property owners can be held accountable for unsafe conditions. Understanding your rights can empower you to take action after an injury.\"})]})}function p(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(d,{...n})}):d(n)}return j(_);})();\n;return Component;"
+    },
+    "_id": "blog/myths-about-slip-and-fall-cases.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/myths-about-slip-and-fall-cases.mdx",
+      "sourceFileName": "myths-about-slip-and-fall-cases.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/myths-about-slip-and-fall-cases"
+    },
+    "type": "Post",
+    "url": "/blog/myths-about-slip-and-fall-cases"
+  },
+  {
+    "title": "Understanding Child Custody Laws: What Every Parent Should Know",
+    "excerpt": "Technology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design ",
+    "date": "2023-05-21T00:00:00.000Z",
+    "image": "/images/project-3-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "Family Law",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\nTechnology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design are revolutionizing architectural practices. Dive into case studies of projects that have harnessed technology to push the boundaries of what's possible in design.\n\nWe'll also examine the sustainability aspect, exploring how architects are using technology to create energy-efficient buildings and reduce the industry's carbon footprint. From intelligent building management systems to AI-driven design optimization, discover the latest tech trends shaping the future of architecture.\n",
+      "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var i in t)r(e,i,{get:t[i],enumerable:!0})},a=(e,t,i,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of p(t))!f.call(e,o)&&o!==i&&r(e,o,{get:()=>t[o],enumerable:!(s=u(t,o))||s.enumerable});return e};var w=(e,t,i)=>(i=e!=null?g(m(e)):{},a(t||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),b=e=>a(r({},\"__esModule\",{value:!0}),e);var l=y((C,c)=>{c.exports=_jsx_runtime});var v={};x(v,{default:()=>h,frontmatter:()=>j});var n=w(l()),j={title:\"Understanding Child Custody Laws: What Every Parent Should Know\",excerpt:\"Technology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design \",date:\"2023-05-21\",author:\"JoefreyCodes\",categories:[{title:\"Family Law\"}],type:\"Post\",image:\"/images/project-3-min.jpg\"};function d(e){let t={p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:\"Technology is transforming the field of architecture in unprecedented ways. In this blog post, we'll explore how cutting-edge tools like 3D printing, virtual reality, and parametric design are revolutionizing architectural practices. Dive into case studies of projects that have harnessed technology to push the boundaries of what's possible in design.\"}),`\n`,(0,n.jsx)(t.p,{children:\"We'll also examine the sustainability aspect, exploring how architects are using technology to create energy-efficient buildings and reduce the industry's carbon footprint. From intelligent building management systems to AI-driven design optimization, discover the latest tech trends shaping the future of architecture.\"})]})}function h(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return b(v);})();\n;return Component;"
+    },
+    "_id": "blog/understanding-child-custody-laws.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/understanding-child-custody-laws.mdx",
+      "sourceFileName": "understanding-child-custody-laws.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/understanding-child-custody-laws"
+    },
+    "type": "Post",
+    "url": "/blog/understanding-child-custody-laws"
+  },
+  {
+    "title": "What to Do If You’re Facing a Lawsuit",
+    "excerpt": "Facing a lawsuit can be overwhelming, but your response during the initial stages is crucial.",
+    "date": "2023-03-01T00:00:00.000Z",
+    "image": "/images/post-1-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "General Legal Advice",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\nFacing a lawsuit can be overwhelming, but your response during the initial stages is crucial. This post explains what to do if you receive a legal complaint, including reviewing the documents carefully, understanding the claims against you, and meeting all deadlines. Taking these steps promptly can prevent default judgments and protect your rights.\n\nWe’ll also discuss the importance of hiring an experienced attorney who can help you build a solid defense and explore alternative resolutions, such as mediation or settlement. With the right strategy and legal guidance, you can navigate this stressful situation with confidence.\n",
+      "code": "var Component=(()=>{var g=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var a in t)s(e,a,{get:t[a],enumerable:!0})},r=(e,t,a,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of p(t))!f.call(e,i)&&i!==a&&s(e,i,{get:()=>t[i],enumerable:!(o=h(t,i))||o.enumerable});return e};var w=(e,t,a)=>(a=e!=null?g(m(e)):{},r(t||!e||!e.__esModule?s(a,\"default\",{value:e,enumerable:!0}):a,e)),v=e=>r(s({},\"__esModule\",{value:!0}),e);var c=y((F,l)=>{l.exports=_jsx_runtime});var _={};x(_,{default:()=>d,frontmatter:()=>j});var n=w(c()),j={title:\"What to Do If You\\u2019re Facing a Lawsuit\",excerpt:\"Facing a lawsuit can be overwhelming, but your response during the initial stages is crucial.\",date:\"2023-03-01\",author:\"JoefreyCodes\",categories:[{title:\"General Legal Advice\"}],type:\"Post\",image:\"/images/post-1-min.jpg\"};function u(e){let t={p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:\"Facing a lawsuit can be overwhelming, but your response during the initial stages is crucial. This post explains what to do if you receive a legal complaint, including reviewing the documents carefully, understanding the claims against you, and meeting all deadlines. Taking these steps promptly can prevent default judgments and protect your rights.\"}),`\n`,(0,n.jsx)(t.p,{children:\"We\\u2019ll also discuss the importance of hiring an experienced attorney who can help you build a solid defense and explore alternative resolutions, such as mediation or settlement. With the right strategy and legal guidance, you can navigate this stressful situation with confidence.\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(u,{...e})}):u(e)}return v(_);})();\n;return Component;"
+    },
+    "_id": "blog/what-to-do-facing-lawsuit.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/what-to-do-facing-lawsuit.mdx",
+      "sourceFileName": "what-to-do-facing-lawsuit.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/what-to-do-facing-lawsuit"
+    },
+    "type": "Post",
+    "url": "/blog/what-to-do-facing-lawsuit"
+  },
+  {
+    "title": "What to Expect After Being Charged with a DUI",
+    "excerpt": "Being charged with a DUI can have serious consequences, including fines, license suspension, and even jail time.",
+    "date": "2023-03-10T00:00:00.000Z",
+    "image": "/images/project-2-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "Criminal Law",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\nBeing charged with a DUI can have serious consequences, including fines, license suspension, and even jail time. This post breaks down what happens next, from the arraignment to the trial, and highlights the importance of meeting all legal deadlines. We’ll also discuss how penalties can vary based on factors like blood alcohol level and prior offenses.\n\nHiring an experienced DUI attorney can make a significant difference in your case. We’ll explain how an attorney can challenge the evidence against you, negotiate plea bargains, or even get charges reduced. Being proactive is key to mitigating the long-term impacts of a DUI conviction.\n",
+      "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),v=(e,n)=>{for(var a in n)o(e,a,{get:n[a],enumerable:!0})},r=(e,n,a,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of m(n))!f.call(e,i)&&i!==a&&o(e,i,{get:()=>n[i],enumerable:!(s=p(n,i))||s.enumerable});return e};var j=(e,n,a)=>(a=e!=null?d(u(e)):{},r(n||!e||!e.__esModule?o(a,\"default\",{value:e,enumerable:!0}):a,e)),w=e=>r(o({},\"__esModule\",{value:!0}),e);var l=x((C,c)=>{c.exports=_jsx_runtime});var D={};v(D,{default:()=>h,frontmatter:()=>y});var t=j(l()),y={title:\"What to Expect After Being Charged with a DUI\",excerpt:\"Being charged with a DUI can have serious consequences, including fines, license suspension, and even jail time.\",date:\"2023-03-10\",author:\"JoefreyCodes\",categories:[{title:\"Criminal Law\"}],type:\"Post\",image:\"/images/project-2-min.jpg\"};function g(e){let n={p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:\"Being charged with a DUI can have serious consequences, including fines, license suspension, and even jail time. This post breaks down what happens next, from the arraignment to the trial, and highlights the importance of meeting all legal deadlines. We\\u2019ll also discuss how penalties can vary based on factors like blood alcohol level and prior offenses.\"}),`\n`,(0,t.jsx)(n.p,{children:\"Hiring an experienced DUI attorney can make a significant difference in your case. We\\u2019ll explain how an attorney can challenge the evidence against you, negotiate plea bargains, or even get charges reduced. Being proactive is key to mitigating the long-term impacts of a DUI conviction.\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(g,{...e})}):g(e)}return w(D);})();\n;return Component;"
+    },
+    "_id": "blog/what-to-expect-after-dui-charge.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/what-to-expect-after-dui-charge.mdx",
+      "sourceFileName": "what-to-expect-after-dui-charge.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/what-to-expect-after-dui-charge"
+    },
+    "type": "Post",
+    "url": "/blog/what-to-expect-after-dui-charge"
+  },
+  {
+    "title": "Your Rights During a Police Encounter: A Guide to Stay Safe and Informed",
+    "excerpt": "Knowing your rights during a police encounter can help protect you from unlawful actions.",
+    "date": "2023-01-04T00:00:00.000Z",
+    "image": "/images/project-3-min.jpg",
+    "author": "JoefreyCodes",
+    "categories": [
+      {
+        "title": "Criminal Law",
+        "type": "Category",
+        "_raw": {}
+      }
+    ],
+    "body": {
+      "raw": "\n## Knowing your rights\n\nKnowing your rights during a police encounter can help protect you from unlawful actions. This post discusses key rights, such as the right to remain silent, the need for probable cause for searches, and how to handle arrest situations calmly. These principles are essential for ensuring fair treatment.\n\n## Provide Tips on how to Assert your rights\n\nWe’ll also provide tips on how to assert your rights respectfully and avoid escalating situations. By understanding what you are entitled to under the law, you can stay informed and make better decisions during police interactions.\n",
+      "code": "var Component=(()=>{var d=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var o in e)i(t,o,{get:e[o],enumerable:!0})},a=(t,e,o,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of g(e))!f.call(t,r)&&r!==o&&i(t,r,{get:()=>e[r],enumerable:!(s=p(e,r))||s.enumerable});return t};var x=(t,e,o)=>(o=t!=null?d(m(t)):{},a(e||!t||!t.__esModule?i(o,\"default\",{value:t,enumerable:!0}):o,t)),j=t=>a(i({},\"__esModule\",{value:!0}),t);var u=y((v,c)=>{c.exports=_jsx_runtime});var C={};w(C,{default:()=>h,frontmatter:()=>_});var n=x(u()),_={title:\"Your Rights During a Police Encounter: A Guide to Stay Safe and Informed\",excerpt:\"Knowing your rights during a police encounter can help protect you from unlawful actions.\",date:\"2023-01-04\",author:\"JoefreyCodes\",categories:[{title:\"Criminal Law\"}],type:\"Post\",image:\"/images/project-3-min.jpg\"};function l(t){let e={h2:\"h2\",p:\"p\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.h2,{children:\"Knowing your rights\"}),`\n`,(0,n.jsx)(e.p,{children:\"Knowing your rights during a police encounter can help protect you from unlawful actions. This post discusses key rights, such as the right to remain silent, the need for probable cause for searches, and how to handle arrest situations calmly. These principles are essential for ensuring fair treatment.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Provide Tips on how to Assert your rights\"}),`\n`,(0,n.jsx)(e.p,{children:\"We\\u2019ll also provide tips on how to assert your rights respectfully and avoid escalating situations. By understanding what you are entitled to under the law, you can stay informed and make better decisions during police interactions.\"})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(l,{...t})}):l(t)}return j(C);})();\n;return Component;"
+    },
+    "_id": "blog/your-rights-police-encounter.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/your-rights-police-encounter.mdx",
+      "sourceFileName": "your-rights-police-encounter.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/your-rights-police-encounter"
+    },
+    "type": "Post",
+    "url": "/blog/your-rights-police-encounter"
+  }
+]

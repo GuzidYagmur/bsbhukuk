@@ -1,0 +1,23 @@
+{
+  "name": "John Smith",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/lawyer-5-min.jpg",
+  "order": "5",
+  "expertise": "Criminal Defense Law",
+  "email": "david@mydomain.com",
+  "phone": "+1 2932 2192 221",
+  "body": {
+    "raw": "\nJohn Smith is a dedicated criminal defense attorney known for his fierce advocacy and commitment to protecting the rights of the accused. With a successful track record of defending clients facing a variety of criminal charges, including DUI, drug offenses, and white-collar crimes, John brings a wealth of experience and expertise to every case he handles.",
+    "code": "var Component=(()=>{var h=Object.create;var o=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),y=(e,n)=>{for(var t in n)o(e,t,{get:n[t],enumerable:!0})},c=(e,n,t,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of p(n))!g.call(e,i)&&i!==t&&o(e,i,{get:()=>n[i],enumerable:!(a=l(n,i))||a.enumerable});return e};var w=(e,n,t)=>(t=e!=null?h(u(e)):{},c(n||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>c(o({},\"__esModule\",{value:!0}),e);var d=x((C,s)=>{s.exports=_jsx_runtime});var v={};y(v,{default:()=>f,frontmatter:()=>j});var r=w(d()),j={name:\"John Smith\",type:\"Attorney\",date:\"2019-01-23\",order:\"5\",expertise:\"Criminal Defense Law\",image:\"/images/lawyer-5-min.jpg\",phone:\"+1 2932 2192 221\",email:\"david@mydomain.com\"};function m(e){let n={p:\"p\",...e.components};return(0,r.jsx)(n.p,{children:\"John Smith is a dedicated criminal defense attorney known for his fierce advocacy and commitment to protecting the rights of the accused. With a successful track record of defending clients facing a variety of criminal charges, including DUI, drug offenses, and white-collar crimes, John brings a wealth of experience and expertise to every case he handles.\"})}function f(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(m,{...e})}):m(e)}return _(v);})();\n;return Component;"
+  },
+  "_id": "attorneys/06-john-smith.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/06-john-smith.mdx",
+    "sourceFileName": "06-john-smith.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/06-john-smith"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/06-john-smith"
+}

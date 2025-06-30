@@ -1,0 +1,28 @@
+{
+  "title": "The Ultimate Divorce Checklist: Steps to Take Before Filing",
+  "excerpt": "Divorce is not just an emotional decision; it’s a legal process that requires preparation.",
+  "date": "2023-02-12T00:00:00.000Z",
+  "image": "/images/post-2-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "Family Law",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\n## Divorce is not just an Emotional\n\nDivorce is not just an emotional decision; it’s a legal process that requires preparation. This post provides a checklist to help individuals get organized, from gathering financial records to understanding property division laws in your state. Proper preparation can save time, money, and unnecessary stress during the proceedings.\n\n## Discuss Emotional Readiness\n\nWe’ll also discuss emotional readiness, such as seeking support from friends, family, or counselors, and understanding the impact of divorce on children. By planning ahead, you can navigate the process with clarity and confidence.\n",
+    "code": "var Component=(()=>{var h=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),v=(n,e)=>{for(var i in e)o(n,i,{get:e[i],enumerable:!0})},r=(n,e,i,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!f.call(n,s)&&s!==i&&o(n,s,{get:()=>e[s],enumerable:!(a=m(e,s))||a.enumerable});return n};var x=(n,e,i)=>(i=n!=null?h(g(n)):{},r(e||!n||!n.__esModule?o(i,\"default\",{value:n,enumerable:!0}):i,n)),j=n=>r(o({},\"__esModule\",{value:!0}),n);var d=y((w,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>p,frontmatter:()=>D});var t=x(d()),D={title:\"The Ultimate Divorce Checklist: Steps to Take Before Filing\",excerpt:\"Divorce is not just an emotional decision; it\\u2019s a legal process that requires preparation.\",date:\"2023-02-12\",author:\"JoefreyCodes\",categories:[{title:\"Family Law\"}],type:\"Post\",image:\"/images/post-2-min.jpg\"};function l(n){let e={h2:\"h2\",p:\"p\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Divorce is not just an Emotional\"}),`\n`,(0,t.jsx)(e.p,{children:\"Divorce is not just an emotional decision; it\\u2019s a legal process that requires preparation. This post provides a checklist to help individuals get organized, from gathering financial records to understanding property division laws in your state. Proper preparation can save time, money, and unnecessary stress during the proceedings.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Discuss Emotional Readiness\"}),`\n`,(0,t.jsx)(e.p,{children:\"We\\u2019ll also discuss emotional readiness, such as seeking support from friends, family, or counselors, and understanding the impact of divorce on children. By planning ahead, you can navigate the process with clarity and confidence.\"})]})}function p(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(l,{...n})}):l(n)}return j(_);})();\n;return Component;"
+  },
+  "_id": "blog/divorce-checklist-steps-to-take.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/divorce-checklist-steps-to-take.mdx",
+    "sourceFileName": "divorce-checklist-steps-to-take.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/divorce-checklist-steps-to-take"
+  },
+  "type": "Post",
+  "url": "/blog/divorce-checklist-steps-to-take"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Top 5 Myths About Slip and Fall Cases",
+  "excerpt": "Slip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help.",
+  "date": "2023-01-04T00:00:00.000Z",
+  "image": "/images/post-3-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "Personal Injury Law",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\n## Misconceptions and Explain\n\nSlip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help. For instance, many people believe that warning signs negate liability or that minor injuries don’t qualify for claims. This post debunks these misconceptions and explains the true criteria for premises liability cases.\n\n## Using real-world examples\n\nUsing real-world examples, we’ll demonstrate how property owners can be held accountable for unsafe conditions. Understanding your rights can empower you to take action after an injury.\n",
+    "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),x=(n,e)=>{for(var i in e)r(n,i,{get:e[i],enumerable:!0})},o=(n,e,i,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!f.call(n,s)&&s!==i&&r(n,s,{get:()=>e[s],enumerable:!(a=h(e,s))||a.enumerable});return n};var w=(n,e,i)=>(i=n!=null?m(g(n)):{},o(e||!n||!n.__esModule?r(i,\"default\",{value:n,enumerable:!0}):i,n)),j=n=>o(r({},\"__esModule\",{value:!0}),n);var c=y((k,l)=>{l.exports=_jsx_runtime});var _={};x(_,{default:()=>p,frontmatter:()=>b});var t=w(c()),b={title:\"Top 5 Myths About Slip and Fall Cases\",excerpt:\"Slip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help.\",date:\"2023-01-04\",author:\"JoefreyCodes\",categories:[{title:\"Personal Injury Law\"}],type:\"Post\",image:\"/images/post-3-min.jpg\"};function d(n){let e={h2:\"h2\",p:\"p\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Misconceptions and Explain\"}),`\n`,(0,t.jsx)(e.p,{children:\"Slip and fall accidents are often misunderstood, with myths deterring victims from seeking legal help. For instance, many people believe that warning signs negate liability or that minor injuries don\\u2019t qualify for claims. This post debunks these misconceptions and explains the true criteria for premises liability cases.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Using real-world examples\"}),`\n`,(0,t.jsx)(e.p,{children:\"Using real-world examples, we\\u2019ll demonstrate how property owners can be held accountable for unsafe conditions. Understanding your rights can empower you to take action after an injury.\"})]})}function p(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(d,{...n})}):d(n)}return j(_);})();\n;return Component;"
+  },
+  "_id": "blog/myths-about-slip-and-fall-cases.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/myths-about-slip-and-fall-cases.mdx",
+    "sourceFileName": "myths-about-slip-and-fall-cases.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/myths-about-slip-and-fall-cases"
+  },
+  "type": "Post",
+  "url": "/blog/myths-about-slip-and-fall-cases"
+}

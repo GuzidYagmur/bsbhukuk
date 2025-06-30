@@ -1,0 +1,23 @@
+{
+  "name": "Yakup Haluk Başaran",
+  "date": "2019-01-23T00:00:00.000Z",
+  "image": "/images/Haluk.jpg",
+  "order": "1",
+  "expertise": "Avukat",
+  "email": "alex@mydomain.com",
+  "phone": "+1 2932 2192 221",
+  "body": {
+    "raw": "\nWith over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\n",
+    "code": "var Component=(()=>{var d=Object.create;var a=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),y=(e,n)=>{for(var r in n)a(e,r,{get:n[r],enumerable:!0})},c=(e,n,r,i)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of f(n))!g.call(e,t)&&t!==r&&a(e,t,{get:()=>n[t],enumerable:!(i=p(n,t))||i.enumerable});return e};var j=(e,n,r)=>(r=e!=null?d(h(e)):{},c(n||!e||!e.__esModule?a(r,\"default\",{value:e,enumerable:!0}):r,e)),k=e=>c(a({},\"__esModule\",{value:!0}),e);var m=x((b,s)=>{s.exports=_jsx_runtime});var w={};y(w,{default:()=>l,frontmatter:()=>v});var o=j(m()),v={name:\"Yakup Haluk Ba\\u015Faran\",type:\"Attorney\",date:\"2019-01-23\",order:\"1\",expertise:\"Avukat\",image:\"/images/Haluk.jpg\",phone:\"+1 2932 2192 221\",email:\"alex@mydomain.com\"};function u(e){let n={p:\"p\",...e.components};return(0,o.jsx)(n.p,{children:\"With over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\"})}function l(e={}){let{wrapper:n}=e.components||{};return n?(0,o.jsx)(n,{...e,children:(0,o.jsx)(u,{...e})}):u(e)}return k(w);})();\n;return Component;"
+  },
+  "_id": "attorneys/01-alexandra-rodriguez.mdx",
+  "_raw": {
+    "sourceFilePath": "attorneys/01-alexandra-rodriguez.mdx",
+    "sourceFileName": "01-alexandra-rodriguez.mdx",
+    "sourceFileDir": "attorneys",
+    "contentType": "mdx",
+    "flattenedPath": "attorneys/01-alexandra-rodriguez"
+  },
+  "type": "Attorney",
+  "url": "/attorneys/01-alexandra-rodriguez"
+}

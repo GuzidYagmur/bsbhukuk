@@ -1,0 +1,28 @@
+{
+  "title": "10 Legal Mistakes to Avoid When Starting a Business",
+  "excerpt": "Starting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages.",
+  "date": "2023-04-17T00:00:00.000Z",
+  "image": "/images/project-1-min.jpg",
+  "author": "JoefreyCodes",
+  "categories": [
+    {
+      "title": "General Legal Advice",
+      "type": "Category",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\nStarting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages. Many entrepreneurs overlook critical elements such as choosing the right business structure, neglecting intellectual property protection, or failing to draft proper contracts. These oversights can lead to disputes, financial losses, or even the closure of your business. In this post, we’ll walk you through these common mistakes and provide tips to avoid them.\n\nAdditionally, we’ll discuss the importance of regulatory compliance, including zoning laws, employment regulations, and tax obligations. With the right legal foundation, you can focus on growing your business without fear of unexpected legal hurdles. Seeking advice from a business attorney early on is one of the smartest investments you can make.\n",
+    "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},r=(e,t,n,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of d(t))!y.call(e,o)&&o!==n&&i(e,o,{get:()=>t[o],enumerable:!(a=h(t,o))||a.enumerable});return e};var k=(e,t,n)=>(n=e!=null?m(p(e)):{},r(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>r(i({},\"__esModule\",{value:!0}),e);var c=f((_,l)=>{l.exports=_jsx_runtime});var v={};x(v,{default:()=>g,frontmatter:()=>j});var s=k(c()),j={title:\"10 Legal Mistakes to Avoid When Starting a Business\",excerpt:\"Starting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages.\",date:\"2023-04-17\",author:\"JoefreyCodes\",categories:[{title:\"General Legal Advice\"}],type:\"Post\",image:\"/images/project-1-min.jpg\"};function u(e){let t={p:\"p\",...e.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(t.p,{children:\"Starting a business is an exciting journey, but it's easy to make costly legal mistakes in the early stages. Many entrepreneurs overlook critical elements such as choosing the right business structure, neglecting intellectual property protection, or failing to draft proper contracts. These oversights can lead to disputes, financial losses, or even the closure of your business. In this post, we\\u2019ll walk you through these common mistakes and provide tips to avoid them.\"}),`\n`,(0,s.jsx)(t.p,{children:\"Additionally, we\\u2019ll discuss the importance of regulatory compliance, including zoning laws, employment regulations, and tax obligations. With the right legal foundation, you can focus on growing your business without fear of unexpected legal hurdles. Seeking advice from a business attorney early on is one of the smartest investments you can make.\"})]})}function g(e={}){let{wrapper:t}=e.components||{};return t?(0,s.jsx)(t,{...e,children:(0,s.jsx)(u,{...e})}):u(e)}return b(v);})();\n;return Component;"
+  },
+  "_id": "blog/legal-mistakes-starting-business.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/legal-mistakes-starting-business.mdx",
+    "sourceFileName": "legal-mistakes-starting-business.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/legal-mistakes-starting-business"
+  },
+  "type": "Post",
+  "url": "/blog/legal-mistakes-starting-business"
+}
