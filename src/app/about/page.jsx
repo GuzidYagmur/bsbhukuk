@@ -1,6 +1,6 @@
 import CTA from "@/components/CTA";
 import Heading from "@/components/Heading";
-import Leadership from "@/components/Leadership";
+
 import Stats from "@/components/Stats";
 import React from "react";
 import Waicon from "@/components/WaContact";
@@ -14,7 +14,6 @@ const page = () => {
         className="py-44"
       />
 
-      <Leadership />
       <Stats />
       <CTA />
       <Waicon />
