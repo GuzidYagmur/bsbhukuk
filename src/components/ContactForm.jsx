@@ -27,7 +27,7 @@ const cardData = [
     description:
       "Sorularınız mı var? Avukatlarımızı dilediğiniz zaman arayabilirsiniz.",
     linkText: "+90 507 384 48 20",
-    link: "#",
+    link: "/",
   },
 ];
 

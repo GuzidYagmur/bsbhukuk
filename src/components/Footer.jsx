@@ -24,7 +24,7 @@ const footerContent = {
     socialLinks: [
       {
         title: "Facebook",
-        url: "#",
+        url: "/",
         icon: <BiLogoFacebook />,
       },
 
@@ -59,7 +59,7 @@ const footerContent = {
         },
 
         {
-          href: "#",
+          href: "/",
           label: "Sıkça Sorulan Sorular",
         },
       ],
@@ -68,11 +68,11 @@ const footerContent = {
   copyright: "2025 BSB Hukuk ve Danışmanlık Bürosu. Tüm hakları saklıdır.",
   extraLinks: [
     {
-      url: "#",
+      url: "/",
       label: "Koşullar ve Şartlar",
     },
     {
-      url: "#",
+      url: "/",
       label: "Gizlilik",
     },
   ],

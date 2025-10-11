@@ -27,7 +27,7 @@ const ctaContent = {
   description:
     "Hukuki sürecinizde yolunuzu netleştirin. Doğru bilgi, zaman kazandırır. Alanında uzman bir avukatla görüşerek haklarınızı öğrenin, doğru adımları zamanında atın ve gereksiz endişelerden kurtulun.",
   ctaBtn: {
-    url: "#",
+    url: "/",
     label: "Hızlı Randevu Oluştur",
   },
   agent: {
