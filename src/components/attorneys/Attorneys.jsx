@@ -27,10 +27,7 @@ const Items = ({ currentItems }) => {
               key={attorney.name}
               className="text-center flex-1 h-full w-full"
             >
-              <Link
-                href={attorney.url}
-                className="block p-5 rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] group relative top-0 hover:-top-1 hover:bg-white h-full"
-              >
+              <div className="block p-5 rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] relative top-0 hover:-top-1 hover:bg-white h-full">
                 <Image
                   src={attorney.image}
                   width={1000}
@@ -39,14 +36,14 @@ const Items = ({ currentItems }) => {
                   className="rounded-full w-28 mx-auto mb-4"
                 />
                 <div className="mb-4">
-                  <h3 className="font-serif font-bold text-xl duration-300 ease-in-out transition-all text-white group-hover:text-dark">
+                  <h3 className="font-serif font-bold text-xl duration-300 ease-in-out transition-all text-white hover:text-dark">
                     {attorney.name}
                   </h3>
-                  <strong className="font-sans font-normal  duration-300 ease-in-out transition-all text-darkGreen group-hover:text-lightGreen">
+                  <strong className="font-sans font-normal duration-300 ease-in-out transition-all text-darkGreen hover:text-lightGreen">
                     {attorney.expertise}{" "}
                   </strong>
                 </div>
-              </Link>
+              </div>
             </motion.div>
           );
         })}

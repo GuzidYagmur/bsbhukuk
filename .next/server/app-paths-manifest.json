@@ -1,9 +1,9 @@
 {
   "/not-found": "app/not-found.js",
-  "/page": "app/page.js",
-  "/practicing-area/page": "app/practicing-area/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/blog/page": "app/blog/page.js",
   "/blog/[slug]/page": "app/blog/[slug]/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/contact/page": "app/contact/page.js",
+  "/attorneys/page": "app/attorneys/page.js",
+  "/attorneys/[slug]/page": "app/attorneys/[slug]/page.js"
 }

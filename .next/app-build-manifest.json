@@ -31,6 +31,16 @@
       "static/chunks/main-app.js",
       "static/chunks/app/contact/page.js"
     ],
+    "/attorneys/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/attorneys/page.js"
+    ],
+    "/attorneys/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/attorneys/[slug]/page.js"
+    ],
     "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",

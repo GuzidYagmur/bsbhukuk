@@ -1815,6 +1815,11 @@ body{
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
+.hover\:text-lightGreen:hover{
+  --tw-text-opacity: 1;
+  color: rgb(119 157 152 / var(--tw-text-opacity, 1));
+}
+
 .hover\:text-opacity-100:hover{
   --tw-text-opacity: 1;
 }
