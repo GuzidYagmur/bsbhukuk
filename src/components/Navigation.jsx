@@ -138,7 +138,7 @@ const Navigation = () => {
                       <div className="flex-1 overflow-y-auto px-8 py-6 sm:px-12">
                         <div className="flex items-start justify-between">
                           <Dialog.Title className="text-lg font-medium text-gray-900">
-                            Menu
+                            Menü
                           </Dialog.Title>
                           <div className="ml-3 flex h-7 items-center">
                             <button
@@ -147,7 +147,7 @@ const Navigation = () => {
                               onClick={() => setOpen(false)}
                             >
                               <span className="absolute -inset-0.5" />
-                              <span className="sr-only">Close panel</span>
+                              <span className="sr-only">Kapat</span>
                               <XMarkIcon
                                 className="h-6 w-6"
                                 aria-hidden="true"
@@ -180,7 +180,7 @@ const Navigation = () => {
                             href="/contact"
                             className="block text-center transition-all ease-in-out duration-300 bg-primary py-4 px-5 text-white rounded-full hover:bg-secondary hover:text-dark"
                           >
-                            Contact us
+                            Bize Ulaşın
                           </Link>
                         </div>
                       </div>
