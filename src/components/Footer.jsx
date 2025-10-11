@@ -18,6 +18,7 @@ const footerContent = {
       alt: "Lawyer Logo",
       width: 80,
       height: 80,
+      priority: true,
     },
     description: "BSB Hukuk ve Danışmanlık Bürosu",
     socialLinks: [

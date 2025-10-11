@@ -29,11 +29,17 @@ const Items = ({ currentItems }) => {
             >
               <div className="block p-5 rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] relative top-0 hover:-top-1 hover:bg-white h-full">
                 <Image
-                  src={attorney.image}
+                  // Eğer image local path ise başına / ekle ve unoptimized kullan
+                  src={
+                    attorney.image.startsWith("/")
+                      ? attorney.image
+                      : `/${attorney.image}`
+                  }
                   width={1000}
                   height={1000}
                   alt="Attorney image"
                   className="rounded-full w-28 mx-auto mb-4"
+                  unoptimized
                 />
                 <div className="mb-4">
                   <h3 className="font-serif font-bold text-xl duration-300 ease-in-out transition-all text-white hover:text-dark">

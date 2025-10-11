@@ -13,6 +13,7 @@ const heroContent = {
     alt: "Hero image",
     width: 500,
     height: 500,
+    priority: true,
   },
   image2: {
     src: "/images/circle-2.svg",
