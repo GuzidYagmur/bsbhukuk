@@ -1,8 +1,9 @@
 {
-  "/practicing-area/page": "app/practicing-area/page.js",
+  "/not-found": "app/not-found.js",
   "/page": "app/page.js",
+  "/practicing-area/page": "app/practicing-area/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/attorneys/page": "app/attorneys/page.js",
-  "/about/page": "app/about/page.js",
-  "/blog/page": "app/blog/page.js"
+  "/blog/page": "app/blog/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/contact/page": "app/contact/page.js"
 }

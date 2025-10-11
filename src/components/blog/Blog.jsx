@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { allPosts } from '.contentlayer/generated';
+import { allPosts } from ".contentlayer/generated";
 import { compareDesc, format } from "date-fns";
 import ReactPaginate from "react-paginate";
 import { motion } from "framer-motion";
@@ -10,7 +10,7 @@ import { motion } from "framer-motion";
 import Heading from "../Heading";
 
 const Items = ({ currentItems }) => {
-  return(
+  return (
     <>
       {currentItems &&
         currentItems.map((blog, index) => {
@@ -22,35 +22,36 @@ const Items = ({ currentItems }) => {
               whileInView={{
                 opacity: 1,
                 y: 0,
-                transition: { delay: index, duration: 0.3 }
+                transition: { delay: index, duration: 0.3 },
               }}
               viewport={{ once: true }}
               key={blog.title}
               className="text-center flex-1 h-full w-full"
             >
-              <Link href={blog.url} className="group flex items-stretch rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] relative top-0 hover:-top-1 hover:bg-white h-full overflow-hidden">
+              <Link
+                href={blog.url}
+                className="group flex items-stretch rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] relative top-0 hover:-top-1 hover:bg-white h-full overflow-hidden"
+              >
                 <Image
                   src={blog.image}
-                  width= {1000}
+                  width={1000}
                   height={1000}
                   alt={blog.title}
                   className="w-44 mx-auto mr-5"
                 />
                 <div className="mb-4 p-5 text-left">
-                  <span className="duration-300 ease-in-out transition-all text-white/50 block mb-2 uppercase text-sm group-hover:text-primary">
-                    {formattedDate}
-                  </span>
-                  <h3 className="font-serif font-bold text-xl duration-300 ease-in-out transition-all text-white group-hover:text-primary">{blog.title}</h3>
+                  <span className="duration-300 ease-in-out transition-all text-white/50 block mb-2 uppercase text-sm group-hover:text-primary"></span>
+                  <h3 className="font-serif font-bold text-xl duration-300 ease-in-out transition-all text-white group-hover:text-primary">
+                    {blog.title}
+                  </h3>
                 </div>
-
               </Link>
             </motion.div>
           );
-        }) }
+        })}
     </>
   );
-}
-
+};
 
 const Blog = ({ className, itemsPerPage }) => {
   const items = allPosts.sort((a, b) =>
@@ -72,20 +73,31 @@ const Blog = ({ className, itemsPerPage }) => {
       ref.current?.scrollIntoView({ behavior: "smooth" });
       setClickPaginate(false);
     }
-  }, [setCurrentItems, setPageCount, setClickPaginate, itemOffset, itemsPerPage, clickPaginate, ref]);
+  }, [
+    setCurrentItems,
+    setPageCount,
+    setClickPaginate,
+    itemOffset,
+    itemsPerPage,
+    clickPaginate,
+    ref,
+  ]);
 
   const handlePageClick = (event) => {
     const newOffset = (event.selected * itemsPerPage) % items.length;
     setClickPaginate(true);
     setItemOffset(newOffset);
-  }
+  };
 
   if (!items) return null;
 
   return (
     <>
       <div ref={ref}>
-        <Heading title="Blog" description="Consectetur adipisicing elit. Dolores, facilis! Hic error totam omnis a vero animi voluptatem. Quidem, sint autem nemo fugit sed quam cupiditate voluptatibus commodi voluptatum animi?" />
+        <Heading
+          title="Blog"
+          description="Bu bölümde, hukukun farklı alanlarına dair güncel gelişmeler, temel bilgiler ve bilgilendirici yazılar düzenli olarak paylaşılacaktır."
+        />
       </div>
       <div className={`bg-primary pb-20 ${className}`}>
         <div className="px-5 max-w-[960px] w-full mx-auto relative z-[10] md:flex justify-between">
@@ -94,14 +106,16 @@ const Blog = ({ className, itemsPerPage }) => {
           </div>
         </div>
         {pageCount > 1 && (
-          <div className={ `${pageCount > 1 ? 'mt-10' : 'mt-0'} w-full text-center` }>
+          <div
+            className={`${pageCount > 1 ? "mt-10" : "mt-0"} w-full text-center`}
+          >
             <ReactPaginate
-              nextLabel="Next"
+              nextLabel=">"
               onPageChange={handlePageClick}
               pageRangeDisplayed={3}
               marginPageDisplayed={2}
               pageCount={pageCount}
-              previousLabel="Previous"
+              previousLabel="<"
               pageClassName="page-item text-white"
               pageLinkClassName="page-link text-white"
               previousClassName="page-item"
@@ -119,7 +133,7 @@ const Blog = ({ className, itemsPerPage }) => {
         )}
       </div>
     </>
-  )
-}
+  );
+};
 
-export default Blog
+export default Blog;

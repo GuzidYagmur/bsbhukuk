@@ -30,6 +30,7 @@ const Items = ({ currentItems }) => {
             >
               <Link
                 href={practicing.url}
+                onClick={(e) => e.preventDefault()}
                 className="block p-5 rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] group relative top-0 hover:-top-1 hover:bg-[#012924] h-full"
               >
                 <Image
@@ -97,8 +98,8 @@ const PracticingArea = ({ className, itemsPerPage }) => {
     <>
       <div ref={ref}>
         <Heading
-          title="Practicing Area"
-          description="Consectetur adipisicing elit. Dolores, facilis! Hic error totam omnis a vero animi voluptatem. Quidem, sint autem nemo fugit sed quam cupiditate voluptatibus commodi voluptatum animi?"
+          title="Çalışma Alanlarımız"
+          description="Aşağıda hukuk büromuzun uzmanlık alanlarını bulabilirsiniz. Her bir alan, müvekkillerimize sunduğumuz kapsamlı hizmetlerin bir yansımasıdır. Aşağıdaki çalışma alanlarımız haricinde de size yardımcı olabiliriz. Daha fazla bilgi için lütfen bizimle iletişime geçin."
         />
       </div>
       <div className={`bg-primary pb-20 ${className}`}>
@@ -112,12 +113,12 @@ const PracticingArea = ({ className, itemsPerPage }) => {
             className={`${pageCount > 1 ? "mt-10" : "mt-0"} w-full text-center`}
           >
             <ReactPaginate
-              nextLabel="Next"
+              nextLabel="Sonraki"
               onPageChange={handlePageClick}
               pageRangeDisplayed={3}
               marginPageDisplayed={2}
               pageCount={pageCount}
-              previousLabel="Previous"
+              previousLabel="Önceki"
               pageClassName="page-item text-white"
               pageLinkClassName="page-link text-white"
               previousClassName="page-item"

@@ -19,10 +19,7 @@ const navigationData = [
     url: "/practicing-area",
     label: "Çalışma Alanları",
   },
-  {
-    url: "/about",
-    label: "Hakkımızda",
-  },
+
   {
     url: "/blog",
     label: "Blog",
@@ -85,7 +82,7 @@ const Navigation = () => {
               })}
             </ul>
           </nav>
-          {/* CTA */}
+
           <div className="cta w-1/4 flex justify-end">
             {navigationData.map((item, index) => {
               if (item.cta === true) {
@@ -109,7 +106,7 @@ const Navigation = () => {
           </div>
         </div>
       </header>
-      {/* Offcanvas */}
+
       <Transition.Root show={open} as={Fragment}>
         <Dialog as="div" className="relative z-[99999]" onClose={setOpen}>
           <Transition.Child

@@ -8,9 +8,9 @@ const page = () => {
   return (
     <>
       <Heading
-        title="Contact Us"
+        title="Bize Ulaşın"
         className="py-44"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab porro aut sint, repudiandae nam qui dolore eligendi magnam libero perspiciatis."
+        description="Bizimle iletişime geçin, sorularınızı yanıtlamaktan memnuniyet duyarız."
       />
       <ContactForm />
       <CTA />
