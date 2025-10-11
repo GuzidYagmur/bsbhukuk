@@ -26,19 +26,10 @@ const footerContent = {
         url: "#",
         icon: <BiLogoFacebook />,
       },
-      {
-        title: "Twitter",
-        url: "#",
-        icon: <BiLogoTwitter />,
-      },
-      {
-        title: "Linkedin",
-        url: "#",
-        icon: <BiLogoLinkedin />,
-      },
+
       {
         title: "instagram",
-        url: "#",
+        url: "https://www.instagram.com/bsbhukukvedanismanlik/",
         icon: <BiLogoInstagram />,
       },
     ],
@@ -48,12 +39,12 @@ const footerContent = {
       heading: "Hakkımızda",
       links: [
         {
-          href: "#",
+          href: "/",
           label: "Hukuk Büromuz",
         },
 
         {
-          href: "#",
+          href: "/attorneys",
           label: "Takımımız",
         },
       ],
@@ -62,7 +53,7 @@ const footerContent = {
       heading: "Sayfalar",
       links: [
         {
-          href: "#",
+          href: "/blog",
           label: "Bloglar",
         },
 

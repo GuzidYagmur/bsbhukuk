@@ -1402,6 +1402,9 @@ body{
 .text-white\/50{
   color: rgb(255 255 255 / 0.5);
 }
+.text-dark\/50{
+  color: rgb(27 30 33 / 0.5);
+}
 .text-opacity-40{
   --tw-text-opacity: 0.4;
 }
@@ -1552,6 +1555,42 @@ body{
 }
 .practicing-image:hover img {
   fill: #000;
+}
+
+.file\:cursor-pointer::file-selector-button{
+  cursor: pointer;
+}
+
+.file\:rounded-md::file-selector-button{
+  border-radius: calc(var(--radius) - 2px);
+}
+
+.file\:border::file-selector-button{
+  border-width: 1px;
+}
+
+.file\:border-dark\/25::file-selector-button{
+  border-color: rgb(27 30 33 / 0.25);
+}
+
+.file\:bg-white::file-selector-button{
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+
+.file\:px-4::file-selector-button{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.file\:py-2::file-selector-button{
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.file\:text-dark::file-selector-button{
+  --tw-text-opacity: 1;
+  color: rgb(27 30 33 / var(--tw-text-opacity, 1));
 }
 
 .placeholder\:text-dark\/50::-moz-placeholder{

@@ -81,8 +81,9 @@ const ContactForm = ({ classNames }) => {
           {/* right section */}
           <div className="lg:w-1/2">
             <form
-              action="#"
-              method="post"
+              action="https://getform.io/f/axoznkwb"
+              method="POST"
+              enctype="multipart/form-data"
               className="flex flex-col gap-5 rounded-lg border border-dark/10 lg:-mt-36 bg-white p-10"
             >
               <h2 className="font-serif text-3xl text-dark">
@@ -91,9 +92,14 @@ const ContactForm = ({ classNames }) => {
               <p className="text-sm mb-4">
                 Aşağıda bulunan tüm alanları doldurmanız zorunludur.
               </p>
+
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-                <InputField icon={BiUser} placeholder="İsim" name="fname" />
-                <InputField icon={BiUser} placeholder="Soyisim" name="fname" />
+                <InputField icon={BiUser} placeholder="İsim" name="name" />
+                <InputField
+                  icon={BiUser}
+                  placeholder="Soyisim"
+                  name="surname"
+                />
               </div>
               <InputField icon={BiEnvelope} placeholder="Email" name="email" />
               <InputField
@@ -111,6 +117,7 @@ const ContactForm = ({ classNames }) => {
                   className="placeholder:text-dark/50 block bg-white w-full border border-dark/25 rounded-md py-3 pl-12 pr-3 shadow-sm focus:outline-none focus:border-primary focus:border sm:text-sm"
                 ></textarea>
               </label>
+
               <button
                 type="submit"
                 className="cursor-pointer block sm:inline-block w-full sm:w-auto mb-0 text-center py-4 px-5 text-white bg-dark rounded-[30px] transition-all ease-in-out duration-300 hover:bg-secondary hover:text-dark"
