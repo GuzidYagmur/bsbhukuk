@@ -42,7 +42,7 @@ const ctaContent = {
     title: "Avukat",
     phone: {
       label: "Bizi Arayın",
-      number: "+90 538 942 62 80",
+      number: "",
     },
     email: {
       label: "Mail Atmak için:",
