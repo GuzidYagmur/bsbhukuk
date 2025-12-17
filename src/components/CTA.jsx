@@ -16,7 +16,7 @@ const ctaContent = {
     title: "Avukat",
     phone: {
       label: "Bizi Arayın",
-      number: "+90 507 384 48 20",
+      number: "+905073844820",
     },
     email: {
       label: "Mail Atmak için:",
