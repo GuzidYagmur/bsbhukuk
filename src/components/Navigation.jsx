@@ -34,6 +34,7 @@ const navigationData = [
 const Navigation = () => {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
+
   let newPathName = "";
   newPathName = pathname;
   if (pathname.includes("/blog")) {
@@ -43,6 +44,10 @@ const Navigation = () => {
   } else if (pathname.includes("/practicing-area")) {
     newPathName = "/practicing-area";
   }
+
+  useEffect(() => {
+    setOpen(false);
+  }, [pathname]);
 
   return (
     <>

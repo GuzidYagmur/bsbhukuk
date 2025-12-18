@@ -49,7 +49,7 @@ const Content = ({ blog }) => {
                 src={blog.image}
                 width={1065}
                 height={644}
-                className="object-cover relative rounded-lg -mt-16 md:mt-0 mb-10"
+                className="object-cover rounded-lg mt-0 md:mt-0 mb-10"
                 alt={blog.title}
               />
 
@@ -70,7 +70,6 @@ const Content = ({ blog }) => {
         </div>
       </div>
 
-      {/* More Posts */}
       <div className="bg-white py-10 md:py-20 mt-20 md:mt-20 mb-0 px-4">
         <div className="max-w-[960px] mx-auto">
           <h2 className="text-3xl font-serif mb-10 text-center text-dark">

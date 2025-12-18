@@ -30,15 +30,16 @@ const Items = ({ currentItems }) => {
             >
               <Link
                 href={blog.url}
-                className="group flex items-stretch rounded-lg duration-300 ease-in-out transition-all bg-[#01312B] relative top-0 hover:-top-1 hover:bg-white h-full overflow-hidden"
+                className="group flex flex-col md:flex-row rounded-lg transition-all duration-300 bg-[#01312B] hover:bg-white h-full overflow-hidden"
               >
-                <Image
-                  src={blog.image}
-                  width={1000}
-                  height={1000}
-                  alt={blog.title}
-                  className="w-44 mx-auto mr-5"
-                />
+                <div className="relative w-full md:w-44 h-56 md:h-auto shrink-0">
+                  <Image
+                    src={blog.image}
+                    fill
+                    alt={blog.title}
+                    className="object-cover"
+                  />
+                </div>
                 <div className="mb-4 p-5 text-left">
                   <span className="duration-300 ease-in-out transition-all text-white/50 block mb-2 uppercase text-sm group-hover:text-primary"></span>
                   <h3 className="font-serif font-bold text-xl duration-300 ease-in-out transition-all text-white group-hover:text-primary">
@@ -101,7 +102,7 @@ const Blog = ({ className, itemsPerPage }) => {
       </div>
       <div className={`bg-primary pb-20 ${className}`}>
         <div className="px-5 max-w-[960px] w-full mx-auto relative z-[10] md:flex justify-between">
-          <div className="grid grid-cols-2 w-full gap-8 items-stretch">
+          <div className="grid grid-cols-1 md:grid-cols-2 w-full gap-8 items-stretch">
             <Items currentItems={currentItems} />
           </div>
         </div>
