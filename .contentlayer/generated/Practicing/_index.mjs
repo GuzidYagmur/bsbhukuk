@@ -4,5 +4,8 @@ import practicingArea__01GeneralLegalAdviceMdx from './practicing-area__01-gener
 import practicingArea__02LitigationMdx from './practicing-area__02-litigation.mdx.json' with { type: 'json' }
 import practicingArea__03ContractReviewAndDraftingMdx from './practicing-area__03-contract-review-and-drafting.mdx.json' with { type: 'json' }
 import practicingArea__04FamilyLawMdx from './practicing-area__04-family-law.mdx.json' with { type: 'json' }
+import practicingArea__05IsKazasiTazminatlariMdx from './practicing-area__05-is-kazasi-tazminatlari.mdx.json' with { type: 'json' }
+import practicingArea__06TazminatDavalariMdx from './practicing-area__06-tazminat-davalari.mdx.json' with { type: 'json' }
+import practicingArea__07SigortaTazminatiMdx from './practicing-area__07-sigorta-tazminati.mdx.json' with { type: 'json' }
 
-export const allPracticings = [practicingArea__01GeneralLegalAdviceMdx, practicingArea__02LitigationMdx, practicingArea__03ContractReviewAndDraftingMdx, practicingArea__04FamilyLawMdx]
+export const allPracticings = [practicingArea__01GeneralLegalAdviceMdx, practicingArea__02LitigationMdx, practicingArea__03ContractReviewAndDraftingMdx, practicingArea__04FamilyLawMdx, practicingArea__05IsKazasiTazminatlariMdx, practicingArea__06TazminatDavalariMdx, practicingArea__07SigortaTazminatiMdx]

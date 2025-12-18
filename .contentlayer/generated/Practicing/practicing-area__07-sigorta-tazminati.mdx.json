@@ -1,0 +1,19 @@
+{
+  "title": "Sigorta Tazminatı",
+  "image": "/images/icons/insurance.svg",
+  "order": "7",
+  "body": {
+    "raw": "\nSigorta tazminatları ile ilgili içerik...\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of x(n))!f.call(t,i)&&i!==e&&r(t,i,{get:()=>n[i],enumerable:!(a=p(n,i))||a.enumerable});return t};var M=(t,n,e)=>(e=t!=null?g(d(t)):{},c(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),h=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((D,s)=>{s.exports=_jsx_runtime});var z={};j(z,{default:()=>u,frontmatter:()=>y});var o=M(m()),y={title:\"Sigorta Tazminat\\u0131\",type:\"Practicing\",order:\"7\",image:\"/images/icons/insurance.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,o.jsx)(n.p,{children:\"Sigorta tazminatlar\\u0131 ile ilgili i\\xE7erik...\"})}function u(t={}){let{wrapper:n}=t.components||{};return n?(0,o.jsx)(n,{...t,children:(0,o.jsx)(l,{...t})}):l(t)}return h(z);})();\n;return Component;"
+  },
+  "_id": "practicing-area/07-sigorta-tazminati.mdx",
+  "_raw": {
+    "sourceFilePath": "practicing-area/07-sigorta-tazminati.mdx",
+    "sourceFileName": "07-sigorta-tazminati.mdx",
+    "sourceFileDir": "practicing-area",
+    "contentType": "mdx",
+    "flattenedPath": "practicing-area/07-sigorta-tazminati"
+  },
+  "type": "Practicing",
+  "url": "/practicing-area/07-sigorta-tazminati"
+}
