@@ -74,5 +74,62 @@
     },
     "type": "Practicing",
     "url": "/practicing-area/04-family-law"
+  },
+  {
+    "title": "İş Kazası Tazminatları",
+    "image": "/images/icons/work-accident.svg",
+    "order": "5",
+    "body": {
+      "raw": "\nİş kazası tazminatları ile ilgili içerik buraya gelecek...\n",
+      "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),k=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of d(e))!f.call(t,a)&&a!==n&&r(t,a,{get:()=>e[a],enumerable:!(o=x(e,a))||o.enumerable});return t};var z=(t,e,n)=>(n=t!=null?p(g(t)):{},c(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((w,s)=>{s.exports=_jsx_runtime});var M={};k(M,{default:()=>u,frontmatter:()=>y});var i=z(m()),y={title:\"\\u0130\\u015F Kazas\\u0131 Tazminatlar\\u0131\",type:\"Practicing\",order:\"5\",image:\"/images/icons/work-accident.svg\"};function l(t){let e={p:\"p\",...t.components};return(0,i.jsx)(e.p,{children:\"\\u0130\\u015F kazas\\u0131 tazminatlar\\u0131 ile ilgili i\\xE7erik buraya gelecek...\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,{...t,children:(0,i.jsx)(l,{...t})}):l(t)}return j(M);})();\n;return Component;"
+    },
+    "_id": "practicing-area/05-is-kazasi-tazminatlari.mdx",
+    "_raw": {
+      "sourceFilePath": "practicing-area/05-is-kazasi-tazminatlari.mdx",
+      "sourceFileName": "05-is-kazasi-tazminatlari.mdx",
+      "sourceFileDir": "practicing-area",
+      "contentType": "mdx",
+      "flattenedPath": "practicing-area/05-is-kazasi-tazminatlari"
+    },
+    "type": "Practicing",
+    "url": "/practicing-area/05-is-kazasi-tazminatlari"
+  },
+  {
+    "title": "Tazminat Davaları",
+    "image": "/images/icons/compensation.svg",
+    "order": "6",
+    "body": {
+      "raw": "\nTazminat davaları ile ilgili içerik...\n",
+      "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)o(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,r)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of d(n))!g.call(t,i)&&i!==e&&o(t,i,{get:()=>n[i],enumerable:!(r=x(n,i))||r.enumerable});return t};var v=(t,n,e)=>(e=t!=null?u(f(t)):{},c(n||!t||!t.__esModule?o(e,\"default\",{value:t,enumerable:!0}):e,t)),D=t=>c(o({},\"__esModule\",{value:!0}),t);var s=_((z,m)=>{m.exports=_jsx_runtime});var h={};j(h,{default:()=>p,frontmatter:()=>M});var a=v(s()),M={title:\"Tazminat Davalar\\u0131\",type:\"Practicing\",order:\"6\",image:\"/images/icons/compensation.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,a.jsx)(n.p,{children:\"Tazminat davalar\\u0131 ile ilgili i\\xE7erik...\"})}function p(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,{...t,children:(0,a.jsx)(l,{...t})}):l(t)}return D(h);})();\n;return Component;"
+    },
+    "_id": "practicing-area/06-tazminat-davalari.mdx",
+    "_raw": {
+      "sourceFilePath": "practicing-area/06-tazminat-davalari.mdx",
+      "sourceFileName": "06-tazminat-davalari.mdx",
+      "sourceFileDir": "practicing-area",
+      "contentType": "mdx",
+      "flattenedPath": "practicing-area/06-tazminat-davalari"
+    },
+    "type": "Practicing",
+    "url": "/practicing-area/06-tazminat-davalari"
+  },
+  {
+    "title": "Sigorta Tazminatı",
+    "image": "/images/icons/insurance.svg",
+    "order": "7",
+    "body": {
+      "raw": "\nSigorta tazminatları ile ilgili içerik...\n",
+      "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of x(n))!f.call(t,i)&&i!==e&&r(t,i,{get:()=>n[i],enumerable:!(a=p(n,i))||a.enumerable});return t};var M=(t,n,e)=>(e=t!=null?g(d(t)):{},c(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),h=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((D,s)=>{s.exports=_jsx_runtime});var z={};j(z,{default:()=>u,frontmatter:()=>y});var o=M(m()),y={title:\"Sigorta Tazminat\\u0131\",type:\"Practicing\",order:\"7\",image:\"/images/icons/insurance.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,o.jsx)(n.p,{children:\"Sigorta tazminatlar\\u0131 ile ilgili i\\xE7erik...\"})}function u(t={}){let{wrapper:n}=t.components||{};return n?(0,o.jsx)(n,{...t,children:(0,o.jsx)(l,{...t})}):l(t)}return h(z);})();\n;return Component;"
+    },
+    "_id": "practicing-area/07-sigorta-tazminati.mdx",
+    "_raw": {
+      "sourceFilePath": "practicing-area/07-sigorta-tazminati.mdx",
+      "sourceFileName": "07-sigorta-tazminati.mdx",
+      "sourceFileDir": "practicing-area",
+      "contentType": "mdx",
+      "flattenedPath": "practicing-area/07-sigorta-tazminati"
+    },
+    "type": "Practicing",
+    "url": "/practicing-area/07-sigorta-tazminati"
   }
 ]

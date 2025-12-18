@@ -164,7 +164,7 @@ const Navigation = () => {
                         <div className="mt-8">
                           <div className="flow-root">
                             <ul role="list">
-                              {navigationData.map((menu, idx) => (
+                              {navigationData.map((menu) => (
                                 <li key={menu.label}>
                                   <Link
                                     href={menu.url}

@@ -3,9 +3,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { allPosts } from "contentlayer/generated";
-import { compareDesc, format, parseISO } from "date-fns";
-import { FaPhone } from "react-icons/fa6";
-import { MdCall, MdEmail } from "react-icons/md";
+import { compareDesc, format } from "date-fns";
 
 import { motion } from "framer-motion";
 import { getMDXComponent } from "next-contentlayer2/hooks";

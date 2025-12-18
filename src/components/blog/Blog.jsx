@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { allPosts } from ".contentlayer/generated";
-import { compareDesc, format } from "date-fns";
+import { compareDesc } from "date-fns";
 import ReactPaginate from "react-paginate";
 import { motion } from "framer-motion";
 
