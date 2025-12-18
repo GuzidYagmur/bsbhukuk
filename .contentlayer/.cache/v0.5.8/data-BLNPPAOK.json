@@ -1,60 +1,172 @@
 {
   "cacheItemsMap": {
-    "attorneys/01-halukbasaran.mdx": {
+    "practicing-area/01-general-legal-advice.mdx": {
       "document": {
-        "name": "Yakup Haluk Başaran",
-        "date": "2019-01-23T00:00:00.000Z",
-        "image": "/images/Haluk.jpg",
+        "title": "Boşanma Davaları",
+        "image": "/images/icons/general-legal-advice.svg",
         "order": "1",
-        "expertise": "Avukat",
-        "email": "av.halukbasaran@gmail.com",
-        "phone": "",
         "body": {
-          "raw": "\nWith over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\n",
-          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),k=(e,a)=>{for(var n in a)t(e,n,{get:a[n],enumerable:!0})},c=(e,a,n,o)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of f(a))!g.call(e,r)&&r!==n&&t(e,r,{get:()=>a[r],enumerable:!(o=d(a,r))||o.enumerable});return e};var v=(e,a,n)=>(n=e!=null?p(h(e)):{},c(a||!e||!e.__esModule?t(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>c(t({},\"__esModule\",{value:!0}),e);var m=x((_,s)=>{s.exports=_jsx_runtime});var y={};k(y,{default:()=>l,frontmatter:()=>w});var i=v(m()),w={name:\"Yakup Haluk Ba\\u015Faran\",type:\"Attorney\",date:\"2019-01-23\",order:\"1\",expertise:\"Avukat\",image:\"/images/Haluk.jpg\",phone:\"\",email:\"av.halukbasaran@gmail.com\"};function u(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"With over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\"})}function l(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(u,{...e})}):u(e)}return j(y);})();\n;return Component;"
+          "raw": "\nGeneral legal advice encompasses a broad spectrum of legal guidance provided by lawyers to clients across various legal matters. Lawyers specializing in general legal advice offer comprehensive assistance to individuals, businesses, and organizations seeking clarity on legal issues without focusing on a specific area of law. These attorneys possess a deep understanding of fundamental legal principles and procedures, allowing them to provide insightful guidance on diverse topics such as contracts, civil disputes, property rights, and legal obligations.\n\n- One\n- Two\n- Three\n\nClients often turn to lawyers offering general legal advice when they require assistance with navigating legal complexities in their personal or professional lives. Whether drafting legal documents, resolving disputes, or understanding legal rights and responsibilities, these attorneys serve as trusted advisors, offering clear and practical solutions tailored to each client's unique needs. With their broad-based knowledge of the law, general legal advisors empower clients to make informed decisions and effectively address their legal concerns while mitigating risks and ensuring compliance with applicable laws and regulations.\n\nGeneral legal advice plays a pivotal role in guiding clients through various legal challenges and opportunities, fostering confidence and peace of mind in their interactions with the legal system. While general legal advisors offer valuable insights across a wide range of legal matters, they may also collaborate with specialists or refer clients to experts in specific areas of law when necessary. By providing accessible and comprehensive legal guidance, lawyers practicing in the area of general legal advice contribute to promoting justice, protecting rights, and facilitating informed decision-making in diverse personal and business contexts.\n",
+          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var v=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),w=(i,e)=>{for(var a in e)t(i,a,{get:e[a],enumerable:!0})},l=(i,e,a,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!m.call(i,s)&&s!==a&&t(i,s,{get:()=>e[s],enumerable:!(r=h(e,s))||r.enumerable});return i};var y=(i,e,a)=>(a=i!=null?p(f(i)):{},l(e||!i||!i.__esModule?t(a,\"default\",{value:i,enumerable:!0}):a,i)),b=i=>l(t({},\"__esModule\",{value:!0}),i);var c=v((k,o)=>{o.exports=_jsx_runtime});var _={};w(_,{default:()=>g,frontmatter:()=>x});var n=y(c()),x={title:\"Bo\\u015Fanma Davalar\\u0131\",type:\"Practicing\",order:\"1\",image:\"/images/icons/general-legal-advice.svg\"};function d(i){let e={li:\"li\",p:\"p\",ul:\"ul\",...i.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"General legal advice encompasses a broad spectrum of legal guidance provided by lawyers to clients across various legal matters. Lawyers specializing in general legal advice offer comprehensive assistance to individuals, businesses, and organizations seeking clarity on legal issues without focusing on a specific area of law. These attorneys possess a deep understanding of fundamental legal principles and procedures, allowing them to provide insightful guidance on diverse topics such as contracts, civil disputes, property rights, and legal obligations.\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"One\"}),`\n`,(0,n.jsx)(e.li,{children:\"Two\"}),`\n`,(0,n.jsx)(e.li,{children:\"Three\"}),`\n`]}),`\n`,(0,n.jsx)(e.p,{children:\"Clients often turn to lawyers offering general legal advice when they require assistance with navigating legal complexities in their personal or professional lives. Whether drafting legal documents, resolving disputes, or understanding legal rights and responsibilities, these attorneys serve as trusted advisors, offering clear and practical solutions tailored to each client's unique needs. With their broad-based knowledge of the law, general legal advisors empower clients to make informed decisions and effectively address their legal concerns while mitigating risks and ensuring compliance with applicable laws and regulations.\"}),`\n`,(0,n.jsx)(e.p,{children:\"General legal advice plays a pivotal role in guiding clients through various legal challenges and opportunities, fostering confidence and peace of mind in their interactions with the legal system. While general legal advisors offer valuable insights across a wide range of legal matters, they may also collaborate with specialists or refer clients to experts in specific areas of law when necessary. By providing accessible and comprehensive legal guidance, lawyers practicing in the area of general legal advice contribute to promoting justice, protecting rights, and facilitating informed decision-making in diverse personal and business contexts.\"})]})}function g(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,{...i,children:(0,n.jsx)(d,{...i})}):d(i)}return b(_);})();\n;return Component;"
         },
-        "_id": "attorneys/01-halukbasaran.mdx",
+        "_id": "practicing-area/01-general-legal-advice.mdx",
         "_raw": {
-          "sourceFilePath": "attorneys/01-halukbasaran.mdx",
-          "sourceFileName": "01-halukbasaran.mdx",
-          "sourceFileDir": "attorneys",
+          "sourceFilePath": "practicing-area/01-general-legal-advice.mdx",
+          "sourceFileName": "01-general-legal-advice.mdx",
+          "sourceFileDir": "practicing-area",
           "contentType": "mdx",
-          "flattenedPath": "attorneys/01-halukbasaran"
+          "flattenedPath": "practicing-area/01-general-legal-advice"
         },
-        "type": "Attorney",
-        "url": "/attorneys/01-halukbasaran"
+        "type": "Practicing",
+        "url": "/practicing-area/01-general-legal-advice"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760205045138",
       "hasWarnings": false,
-      "documentTypeName": "Attorney"
+      "documentTypeName": "Practicing"
     },
-    "attorneys/02-yavuzsancaktaroglu.mdx": {
+    "practicing-area/02-litigation.mdx": {
       "document": {
-        "name": "Mehmet Yavuz Sancaktaroğlu",
-        "date": "2019-01-23T00:00:00.000Z",
-        "image": "/images/Yavuz.jpg",
+        "title": "Ceza Davaları",
+        "image": "/images/icons/litigition-law.svg",
         "order": "2",
-        "expertise": "Avukat",
-        "email": "av.yavuzsancaktaroglu@gmail.com",
-        "phone": "+90 507 384 48 20",
         "body": {
-          "raw": "\nMike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\n",
-          "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),v=(e,a)=>{for(var t in a)o(e,t,{get:a[t],enumerable:!0})},s=(e,a,t,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let n of g(a))!f.call(e,n)&&n!==t&&o(e,n,{get:()=>a[n],enumerable:!(r=d(a,n))||r.enumerable});return e};var y=(e,a,t)=>(t=e!=null?p(h(e)):{},s(a||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),k=e=>s(o({},\"__esModule\",{value:!0}),e);var m=x((w,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>u,frontmatter:()=>M});var i=y(m()),M={name:\"Mehmet Yavuz Sancaktaro\\u011Flu\",type:\"Attorney\",date:\"2019-01-23\",order:\"2\",expertise:\"Avukat\",image:\"/images/Yavuz.jpg\",phone:\"+90 507 384 48 20\",email:\"av.yavuzsancaktaroglu@gmail.com\"};function l(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"Mike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\"})}function u(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(l,{...e})}):l(e)}return k(_);})();\n;return Component;"
+          "raw": "\nLitigation is the process of resolving disputes through the court system, typically involving two or more parties seeking a legal remedy or asserting their rights. Lawyers specializing in litigation, often referred to as litigators, play a central role in representing clients in civil lawsuits, criminal cases, administrative hearings, and other legal proceedings. These attorneys possess a strong understanding of procedural rules, evidence, and courtroom strategies, enabling them to effectively advocate for their clients' interests in judicial forums.\n\nLitigators handle a wide range of legal matters, including contract disputes, personal injury claims, employment disputes, family law matters, and complex commercial litigation. They work closely with clients to assess the strengths and weaknesses of their cases, develop legal strategies, and pursue favorable outcomes through negotiation, mediation, arbitration, or trial. Litigators are adept at conducting thorough legal research, gathering evidence, preparing legal documents, and presenting persuasive arguments in court to protect their clients' rights and achieve their objectives.\n\nThe litigation process can be complex and time-consuming, requiring litigators to navigate procedural rules, deadlines, and court procedures with precision and diligence. From pre-trial motions and discovery to trial advocacy and post-trial appeals, litigators guide clients through each stage of the legal process, providing strategic advice and advocacy at every step. By leveraging their advocacy skills and legal expertise, litigators help clients navigate legal disputes effectively, seeking resolution through the judicial system while advocating for their clients' interests and upholding the principles of justice.\n",
+          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var a in t)s(e,a,{get:t[a],enumerable:!0})},o=(e,t,a,n)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of u(t))!v.call(e,r)&&r!==a&&s(e,r,{get:()=>t[r],enumerable:!(n=h(t,r))||n.enumerable});return e};var w=(e,t,a)=>(a=e!=null?p(m(e)):{},o(t||!e||!e.__esModule?s(a,\"default\",{value:e,enumerable:!0}):a,e)),x=e=>o(s({},\"__esModule\",{value:!0}),e);var c=y((k,l)=>{l.exports=_jsx_runtime});var _={};f(_,{default:()=>d,frontmatter:()=>j});var i=w(c()),j={title:\"Ceza Davalar\\u0131\",type:\"Practicing\",order:\"2\",image:\"/images/icons/litigition-law.svg\"};function g(e){let t={p:\"p\",...e.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.p,{children:\"Litigation is the process of resolving disputes through the court system, typically involving two or more parties seeking a legal remedy or asserting their rights. Lawyers specializing in litigation, often referred to as litigators, play a central role in representing clients in civil lawsuits, criminal cases, administrative hearings, and other legal proceedings. These attorneys possess a strong understanding of procedural rules, evidence, and courtroom strategies, enabling them to effectively advocate for their clients' interests in judicial forums.\"}),`\n`,(0,i.jsx)(t.p,{children:\"Litigators handle a wide range of legal matters, including contract disputes, personal injury claims, employment disputes, family law matters, and complex commercial litigation. They work closely with clients to assess the strengths and weaknesses of their cases, develop legal strategies, and pursue favorable outcomes through negotiation, mediation, arbitration, or trial. Litigators are adept at conducting thorough legal research, gathering evidence, preparing legal documents, and presenting persuasive arguments in court to protect their clients' rights and achieve their objectives.\"}),`\n`,(0,i.jsx)(t.p,{children:\"The litigation process can be complex and time-consuming, requiring litigators to navigate procedural rules, deadlines, and court procedures with precision and diligence. From pre-trial motions and discovery to trial advocacy and post-trial appeals, litigators guide clients through each stage of the legal process, providing strategic advice and advocacy at every step. By leveraging their advocacy skills and legal expertise, litigators help clients navigate legal disputes effectively, seeking resolution through the judicial system while advocating for their clients' interests and upholding the principles of justice.\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(g,{...e})}):g(e)}return x(_);})();\n;return Component;"
         },
-        "_id": "attorneys/02-yavuzsancaktaroglu.mdx",
+        "_id": "practicing-area/02-litigation.mdx",
         "_raw": {
-          "sourceFilePath": "attorneys/02-yavuzsancaktaroglu.mdx",
-          "sourceFileName": "02-yavuzsancaktaroglu.mdx",
-          "sourceFileDir": "attorneys",
+          "sourceFilePath": "practicing-area/02-litigation.mdx",
+          "sourceFileName": "02-litigation.mdx",
+          "sourceFileDir": "practicing-area",
           "contentType": "mdx",
-          "flattenedPath": "attorneys/02-yavuzsancaktaroglu"
+          "flattenedPath": "practicing-area/02-litigation"
         },
-        "type": "Attorney",
-        "url": "/attorneys/02-yavuzsancaktaroglu"
+        "type": "Practicing",
+        "url": "/practicing-area/02-litigation"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760205061641",
       "hasWarnings": false,
-      "documentTypeName": "Attorney"
+      "documentTypeName": "Practicing"
+    },
+    "practicing-area/03-contract-review-and-drafting.mdx": {
+      "document": {
+        "title": "Mal ve Tapu Davaları",
+        "image": "/images/icons/contract-review-and-drafting-law.svg",
+        "order": "3",
+        "body": {
+          "raw": "\nContract review and drafting are essential aspects of legal practice, involving the examination, analysis, and creation of legally binding agreements between parties. Lawyers specializing in contract review and drafting play a crucial role in ensuring that contracts accurately reflect the intentions and interests of their clients while mitigating potential risks and liabilities. These attorneys possess expertise in contract law and negotiation strategies, enabling them to draft clear, comprehensive agreements tailored to their clients' needs and objectives.\n\nDuring the contract review process, lawyers meticulously examine the terms and conditions of existing contracts to identify potential pitfalls, ambiguities, or areas of concern. They assess the legal implications of contract provisions, such as obligations, warranties, indemnification clauses, and dispute resolution mechanisms, to help clients make informed decisions and protect their interests. Additionally, contract review involves evaluating compliance with relevant laws and regulations, ensuring that contracts are enforceable and legally binding.\n\nIn contract drafting, lawyers collaborate with clients to create new contracts or revise existing agreements to reflect their specific requirements and objectives. They translate the parties' intentions into precise legal language, drafting clauses and provisions that address key issues, allocate risks, and establish rights and responsibilities clearly. Contract drafting requires attention to detail, creativity, and foresight to anticipate and address potential disputes or contingencies effectively. By providing comprehensive contract review and drafting services, lawyers help clients minimize legal risks, safeguard their interests, and facilitate successful business transactions and relationships.\n",
+          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var v=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var n in t)s(e,n,{get:t[n],enumerable:!0})},o=(e,t,n,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of f(t))!u.call(e,a)&&a!==n&&s(e,a,{get:()=>t[a],enumerable:!(r=h(t,a))||r.enumerable});return e};var w=(e,t,n)=>(n=e!=null?p(m(e)):{},o(t||!e||!e.__esModule?s(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>o(s({},\"__esModule\",{value:!0}),e);var l=v((k,c)=>{c.exports=_jsx_runtime});var j={};y(j,{default:()=>g,frontmatter:()=>x});var i=w(l()),x={title:\"Mal ve Tapu Davalar\\u0131\",type:\"Practicing\",order:\"3\",image:\"/images/icons/contract-review-and-drafting-law.svg\"};function d(e){let t={p:\"p\",...e.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.p,{children:\"Contract review and drafting are essential aspects of legal practice, involving the examination, analysis, and creation of legally binding agreements between parties. Lawyers specializing in contract review and drafting play a crucial role in ensuring that contracts accurately reflect the intentions and interests of their clients while mitigating potential risks and liabilities. These attorneys possess expertise in contract law and negotiation strategies, enabling them to draft clear, comprehensive agreements tailored to their clients' needs and objectives.\"}),`\n`,(0,i.jsx)(t.p,{children:\"During the contract review process, lawyers meticulously examine the terms and conditions of existing contracts to identify potential pitfalls, ambiguities, or areas of concern. They assess the legal implications of contract provisions, such as obligations, warranties, indemnification clauses, and dispute resolution mechanisms, to help clients make informed decisions and protect their interests. Additionally, contract review involves evaluating compliance with relevant laws and regulations, ensuring that contracts are enforceable and legally binding.\"}),`\n`,(0,i.jsx)(t.p,{children:\"In contract drafting, lawyers collaborate with clients to create new contracts or revise existing agreements to reflect their specific requirements and objectives. They translate the parties' intentions into precise legal language, drafting clauses and provisions that address key issues, allocate risks, and establish rights and responsibilities clearly. Contract drafting requires attention to detail, creativity, and foresight to anticipate and address potential disputes or contingencies effectively. By providing comprehensive contract review and drafting services, lawyers help clients minimize legal risks, safeguard their interests, and facilitate successful business transactions and relationships.\"})]})}function g(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(d,{...e})}):d(e)}return b(j);})();\n;return Component;"
+        },
+        "_id": "practicing-area/03-contract-review-and-drafting.mdx",
+        "_raw": {
+          "sourceFilePath": "practicing-area/03-contract-review-and-drafting.mdx",
+          "sourceFileName": "03-contract-review-and-drafting.mdx",
+          "sourceFileDir": "practicing-area",
+          "contentType": "mdx",
+          "flattenedPath": "practicing-area/03-contract-review-and-drafting"
+        },
+        "type": "Practicing",
+        "url": "/practicing-area/03-contract-review-and-drafting"
+      },
+      "documentHash": "1760205081589",
+      "hasWarnings": false,
+      "documentTypeName": "Practicing"
+    },
+    "practicing-area/04-family-law.mdx": {
+      "document": {
+        "title": "Şirket Avukatlığı",
+        "image": "/images/icons/family-law.svg",
+        "order": "4",
+        "body": {
+          "raw": "\nFamily law is a specialized area of legal practice that deals with matters relating to familial relationships and domestic issues. Family lawyers assist clients in navigating complex and emotionally charged situations such as divorce, child custody disputes, adoption, and domestic violence. These attorneys provide compassionate yet strategic guidance, advocating for their clients' rights and interests while seeking fair and equitable resolutions to family-related legal matters.\n\nOne of the primary focuses of family law is divorce proceedings, where lawyers help clients dissolve their marriages and address associated issues such as division of assets, spousal support, and child custody and visitation arrangements. Family lawyers work to protect their clients' financial interests and parental rights while guiding them through the legal process with sensitivity and empathy. They may also facilitate negotiations between spouses to reach amicable agreements or represent clients in court to resolve contested issues through litigation when necessary.\n\nIn addition to divorce cases, family lawyers handle a wide range of other family-related matters, including adoption, paternity disputes, and domestic violence restraining orders. These attorneys provide legal advice, representation, and advocacy to individuals and families facing challenging circumstances, working to secure favorable outcomes and promote the well-being of their clients and their loved ones. With their expertise in family law, these attorneys serve as trusted advisors, helping clients navigate the complexities of the legal system while providing support and guidance during difficult times in their lives.\n",
+          "code": "var Component=(()=>{var m=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),v=(e,i)=>{for(var s in i)n(e,s,{get:i[s],enumerable:!0})},o=(e,i,s,r)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let a of p(i))!y.call(e,a)&&a!==s&&n(e,a,{get:()=>i[a],enumerable:!(r=g(i,a))||r.enumerable});return e};var w=(e,i,s)=>(s=e!=null?m(u(e)):{},o(i||!e||!e.__esModule?n(s,\"default\",{value:e,enumerable:!0}):s,e)),x=e=>o(n({},\"__esModule\",{value:!0}),e);var c=f((k,l)=>{l.exports=_jsx_runtime});var b={};v(b,{default:()=>h,frontmatter:()=>_});var t=w(c()),_={title:\"\\u015Eirket Avukatl\\u0131\\u011F\\u0131\",type:\"Practicing\",order:\"4\",image:\"/images/icons/family-law.svg\"};function d(e){let i={p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(i.p,{children:\"Family law is a specialized area of legal practice that deals with matters relating to familial relationships and domestic issues. Family lawyers assist clients in navigating complex and emotionally charged situations such as divorce, child custody disputes, adoption, and domestic violence. These attorneys provide compassionate yet strategic guidance, advocating for their clients' rights and interests while seeking fair and equitable resolutions to family-related legal matters.\"}),`\n`,(0,t.jsx)(i.p,{children:\"One of the primary focuses of family law is divorce proceedings, where lawyers help clients dissolve their marriages and address associated issues such as division of assets, spousal support, and child custody and visitation arrangements. Family lawyers work to protect their clients' financial interests and parental rights while guiding them through the legal process with sensitivity and empathy. They may also facilitate negotiations between spouses to reach amicable agreements or represent clients in court to resolve contested issues through litigation when necessary.\"}),`\n`,(0,t.jsx)(i.p,{children:\"In addition to divorce cases, family lawyers handle a wide range of other family-related matters, including adoption, paternity disputes, and domestic violence restraining orders. These attorneys provide legal advice, representation, and advocacy to individuals and families facing challenging circumstances, working to secure favorable outcomes and promote the well-being of their clients and their loved ones. With their expertise in family law, these attorneys serve as trusted advisors, helping clients navigate the complexities of the legal system while providing support and guidance during difficult times in their lives.\"})]})}function h(e={}){let{wrapper:i}=e.components||{};return i?(0,t.jsx)(i,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return x(b);})();\n;return Component;"
+        },
+        "_id": "practicing-area/04-family-law.mdx",
+        "_raw": {
+          "sourceFilePath": "practicing-area/04-family-law.mdx",
+          "sourceFileName": "04-family-law.mdx",
+          "sourceFileDir": "practicing-area",
+          "contentType": "mdx",
+          "flattenedPath": "practicing-area/04-family-law"
+        },
+        "type": "Practicing",
+        "url": "/practicing-area/04-family-law"
+      },
+      "documentHash": "1760205105725",
+      "hasWarnings": false,
+      "documentTypeName": "Practicing"
+    },
+    "practicing-area/05-is-kazasi-tazminatlari.mdx": {
+      "document": {
+        "title": "İş Kazası Tazminatları",
+        "image": "/images/icons/work-accident.svg",
+        "order": "5",
+        "body": {
+          "raw": "\nİş kazası tazminatları ile ilgili içerik buraya gelecek...\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),k=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of d(e))!f.call(t,a)&&a!==n&&r(t,a,{get:()=>e[a],enumerable:!(o=x(e,a))||o.enumerable});return t};var z=(t,e,n)=>(n=t!=null?p(g(t)):{},c(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((w,s)=>{s.exports=_jsx_runtime});var M={};k(M,{default:()=>u,frontmatter:()=>y});var i=z(m()),y={title:\"\\u0130\\u015F Kazas\\u0131 Tazminatlar\\u0131\",type:\"Practicing\",order:\"5\",image:\"/images/icons/work-accident.svg\"};function l(t){let e={p:\"p\",...t.components};return(0,i.jsx)(e.p,{children:\"\\u0130\\u015F kazas\\u0131 tazminatlar\\u0131 ile ilgili i\\xE7erik buraya gelecek...\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,{...t,children:(0,i.jsx)(l,{...t})}):l(t)}return j(M);})();\n;return Component;"
+        },
+        "_id": "practicing-area/05-is-kazasi-tazminatlari.mdx",
+        "_raw": {
+          "sourceFilePath": "practicing-area/05-is-kazasi-tazminatlari.mdx",
+          "sourceFileName": "05-is-kazasi-tazminatlari.mdx",
+          "sourceFileDir": "practicing-area",
+          "contentType": "mdx",
+          "flattenedPath": "practicing-area/05-is-kazasi-tazminatlari"
+        },
+        "type": "Practicing",
+        "url": "/practicing-area/05-is-kazasi-tazminatlari"
+      },
+      "documentHash": "1766060431123",
+      "hasWarnings": false,
+      "documentTypeName": "Practicing"
+    },
+    "practicing-area/06-tazminat-davalari.mdx": {
+      "document": {
+        "title": "Tazminat Davaları",
+        "image": "/images/icons/compensation.svg",
+        "order": "6",
+        "body": {
+          "raw": "\nTazminat davaları ile ilgili içerik...\n",
+          "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)o(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,r)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of d(n))!g.call(t,i)&&i!==e&&o(t,i,{get:()=>n[i],enumerable:!(r=x(n,i))||r.enumerable});return t};var v=(t,n,e)=>(e=t!=null?u(f(t)):{},c(n||!t||!t.__esModule?o(e,\"default\",{value:t,enumerable:!0}):e,t)),D=t=>c(o({},\"__esModule\",{value:!0}),t);var s=_((z,m)=>{m.exports=_jsx_runtime});var h={};j(h,{default:()=>p,frontmatter:()=>M});var a=v(s()),M={title:\"Tazminat Davalar\\u0131\",type:\"Practicing\",order:\"6\",image:\"/images/icons/compensation.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,a.jsx)(n.p,{children:\"Tazminat davalar\\u0131 ile ilgili i\\xE7erik...\"})}function p(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,{...t,children:(0,a.jsx)(l,{...t})}):l(t)}return D(h);})();\n;return Component;"
+        },
+        "_id": "practicing-area/06-tazminat-davalari.mdx",
+        "_raw": {
+          "sourceFilePath": "practicing-area/06-tazminat-davalari.mdx",
+          "sourceFileName": "06-tazminat-davalari.mdx",
+          "sourceFileDir": "practicing-area",
+          "contentType": "mdx",
+          "flattenedPath": "practicing-area/06-tazminat-davalari"
+        },
+        "type": "Practicing",
+        "url": "/practicing-area/06-tazminat-davalari"
+      },
+      "documentHash": "1766060431123",
+      "hasWarnings": false,
+      "documentTypeName": "Practicing"
+    },
+    "practicing-area/07-sigorta-tazminati.mdx": {
+      "document": {
+        "title": "Sigorta Tazminatı",
+        "image": "/images/icons/insurance.svg",
+        "order": "7",
+        "body": {
+          "raw": "\nSigorta tazminatları ile ilgili içerik...\n",
+          "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of x(n))!f.call(t,i)&&i!==e&&r(t,i,{get:()=>n[i],enumerable:!(a=p(n,i))||a.enumerable});return t};var M=(t,n,e)=>(e=t!=null?g(d(t)):{},c(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),h=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((D,s)=>{s.exports=_jsx_runtime});var z={};j(z,{default:()=>u,frontmatter:()=>y});var o=M(m()),y={title:\"Sigorta Tazminat\\u0131\",type:\"Practicing\",order:\"7\",image:\"/images/icons/insurance.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,o.jsx)(n.p,{children:\"Sigorta tazminatlar\\u0131 ile ilgili i\\xE7erik...\"})}function u(t={}){let{wrapper:n}=t.components||{};return n?(0,o.jsx)(n,{...t,children:(0,o.jsx)(l,{...t})}):l(t)}return h(z);})();\n;return Component;"
+        },
+        "_id": "practicing-area/07-sigorta-tazminati.mdx",
+        "_raw": {
+          "sourceFilePath": "practicing-area/07-sigorta-tazminati.mdx",
+          "sourceFileName": "07-sigorta-tazminati.mdx",
+          "sourceFileDir": "practicing-area",
+          "contentType": "mdx",
+          "flattenedPath": "practicing-area/07-sigorta-tazminati"
+        },
+        "type": "Practicing",
+        "url": "/practicing-area/07-sigorta-tazminati"
+      },
+      "documentHash": "1766060431125",
+      "hasWarnings": false,
+      "documentTypeName": "Practicing"
     },
     "blog/divorce-checklist-steps-to-take.mdx": {
       "document": {
@@ -85,7 +197,7 @@
         "type": "Post",
         "url": "/blog/divorce-checklist-steps-to-take"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210647946",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -118,7 +230,7 @@
         "type": "Post",
         "url": "/blog/how-to-file-personal-injury-claim"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210663700",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -151,7 +263,7 @@
         "type": "Post",
         "url": "/blog/legal-mistakes-starting-business"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210425583",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -184,7 +296,7 @@
         "type": "Post",
         "url": "/blog/myths-about-slip-and-fall-cases"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210407024",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -217,7 +329,7 @@
         "type": "Post",
         "url": "/blog/understanding-child-custody-laws"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210397195",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -250,7 +362,7 @@
         "type": "Post",
         "url": "/blog/what-to-do-facing-lawsuit"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210386452",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -283,7 +395,7 @@
         "type": "Post",
         "url": "/blog/what-to-expect-after-dui-charge"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210506073",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -316,177 +428,65 @@
         "type": "Post",
         "url": "/blog/your-rights-police-encounter"
       },
-      "documentHash": "1766054660401",
+      "documentHash": "1760210559596",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
-    "practicing-area/01-general-legal-advice.mdx": {
+    "attorneys/01-halukbasaran.mdx": {
       "document": {
-        "title": "Boşanma Davaları",
-        "image": "/images/icons/general-legal-advice.svg",
+        "name": "Yakup Haluk Başaran",
+        "date": "2019-01-23T00:00:00.000Z",
+        "image": "/images/haluk.jpg",
         "order": "1",
+        "expertise": "Avukat",
+        "email": "av.halukbasaran@gmail.com",
+        "phone": "",
         "body": {
-          "raw": "\nGeneral legal advice encompasses a broad spectrum of legal guidance provided by lawyers to clients across various legal matters. Lawyers specializing in general legal advice offer comprehensive assistance to individuals, businesses, and organizations seeking clarity on legal issues without focusing on a specific area of law. These attorneys possess a deep understanding of fundamental legal principles and procedures, allowing them to provide insightful guidance on diverse topics such as contracts, civil disputes, property rights, and legal obligations.\n\n- One\n- Two\n- Three\n\nClients often turn to lawyers offering general legal advice when they require assistance with navigating legal complexities in their personal or professional lives. Whether drafting legal documents, resolving disputes, or understanding legal rights and responsibilities, these attorneys serve as trusted advisors, offering clear and practical solutions tailored to each client's unique needs. With their broad-based knowledge of the law, general legal advisors empower clients to make informed decisions and effectively address their legal concerns while mitigating risks and ensuring compliance with applicable laws and regulations.\n\nGeneral legal advice plays a pivotal role in guiding clients through various legal challenges and opportunities, fostering confidence and peace of mind in their interactions with the legal system. While general legal advisors offer valuable insights across a wide range of legal matters, they may also collaborate with specialists or refer clients to experts in specific areas of law when necessary. By providing accessible and comprehensive legal guidance, lawyers practicing in the area of general legal advice contribute to promoting justice, protecting rights, and facilitating informed decision-making in diverse personal and business contexts.\n",
-          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var v=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),w=(i,e)=>{for(var a in e)t(i,a,{get:e[a],enumerable:!0})},l=(i,e,a,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!m.call(i,s)&&s!==a&&t(i,s,{get:()=>e[s],enumerable:!(r=h(e,s))||r.enumerable});return i};var y=(i,e,a)=>(a=i!=null?p(f(i)):{},l(e||!i||!i.__esModule?t(a,\"default\",{value:i,enumerable:!0}):a,i)),b=i=>l(t({},\"__esModule\",{value:!0}),i);var c=v((k,o)=>{o.exports=_jsx_runtime});var _={};w(_,{default:()=>g,frontmatter:()=>x});var n=y(c()),x={title:\"Bo\\u015Fanma Davalar\\u0131\",type:\"Practicing\",order:\"1\",image:\"/images/icons/general-legal-advice.svg\"};function d(i){let e={li:\"li\",p:\"p\",ul:\"ul\",...i.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"General legal advice encompasses a broad spectrum of legal guidance provided by lawyers to clients across various legal matters. Lawyers specializing in general legal advice offer comprehensive assistance to individuals, businesses, and organizations seeking clarity on legal issues without focusing on a specific area of law. These attorneys possess a deep understanding of fundamental legal principles and procedures, allowing them to provide insightful guidance on diverse topics such as contracts, civil disputes, property rights, and legal obligations.\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"One\"}),`\n`,(0,n.jsx)(e.li,{children:\"Two\"}),`\n`,(0,n.jsx)(e.li,{children:\"Three\"}),`\n`]}),`\n`,(0,n.jsx)(e.p,{children:\"Clients often turn to lawyers offering general legal advice when they require assistance with navigating legal complexities in their personal or professional lives. Whether drafting legal documents, resolving disputes, or understanding legal rights and responsibilities, these attorneys serve as trusted advisors, offering clear and practical solutions tailored to each client's unique needs. With their broad-based knowledge of the law, general legal advisors empower clients to make informed decisions and effectively address their legal concerns while mitigating risks and ensuring compliance with applicable laws and regulations.\"}),`\n`,(0,n.jsx)(e.p,{children:\"General legal advice plays a pivotal role in guiding clients through various legal challenges and opportunities, fostering confidence and peace of mind in their interactions with the legal system. While general legal advisors offer valuable insights across a wide range of legal matters, they may also collaborate with specialists or refer clients to experts in specific areas of law when necessary. By providing accessible and comprehensive legal guidance, lawyers practicing in the area of general legal advice contribute to promoting justice, protecting rights, and facilitating informed decision-making in diverse personal and business contexts.\"})]})}function g(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,{...i,children:(0,n.jsx)(d,{...i})}):d(i)}return b(_);})();\n;return Component;"
+          "raw": "\nWith over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\n",
+          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),k=(e,a)=>{for(var n in a)t(e,n,{get:a[n],enumerable:!0})},c=(e,a,n,o)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of h(a))!g.call(e,r)&&r!==n&&t(e,r,{get:()=>a[r],enumerable:!(o=d(a,r))||o.enumerable});return e};var v=(e,a,n)=>(n=e!=null?p(f(e)):{},c(a||!e||!e.__esModule?t(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>c(t({},\"__esModule\",{value:!0}),e);var m=x((_,s)=>{s.exports=_jsx_runtime});var y={};k(y,{default:()=>l,frontmatter:()=>w});var i=v(m()),w={name:\"Yakup Haluk Ba\\u015Faran\",type:\"Attorney\",date:\"2019-01-23\",order:\"1\",expertise:\"Avukat\",image:\"/images/haluk.jpg\",phone:\"\",email:\"av.halukbasaran@gmail.com\"};function u(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"With over 15 years of experience in criminal law, Alex Rodriguez is known for her fierce advocacy and unwavering commitment to justice. After graduating top of her class from Harvard Law School, she worked as a public defender before establishing her private practice. Her notable successes include securing acquittals in high-profile murder cases and championing reform in the criminal justice system.\"})}function l(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(u,{...e})}):u(e)}return j(y);})();\n;return Component;"
         },
-        "_id": "practicing-area/01-general-legal-advice.mdx",
+        "_id": "attorneys/01-halukbasaran.mdx",
         "_raw": {
-          "sourceFilePath": "practicing-area/01-general-legal-advice.mdx",
-          "sourceFileName": "01-general-legal-advice.mdx",
-          "sourceFileDir": "practicing-area",
+          "sourceFilePath": "attorneys/01-halukbasaran.mdx",
+          "sourceFileName": "01-halukbasaran.mdx",
+          "sourceFileDir": "attorneys",
           "contentType": "mdx",
-          "flattenedPath": "practicing-area/01-general-legal-advice"
+          "flattenedPath": "attorneys/01-halukbasaran"
         },
-        "type": "Practicing",
-        "url": "/practicing-area/01-general-legal-advice"
+        "type": "Attorney",
+        "url": "/attorneys/01-halukbasaran"
       },
-      "documentHash": "1766054660402",
+      "documentHash": "1766061019883",
       "hasWarnings": false,
-      "documentTypeName": "Practicing"
+      "documentTypeName": "Attorney"
     },
-    "practicing-area/02-litigation.mdx": {
+    "attorneys/02-yavuzsancaktaroglu.mdx": {
       "document": {
-        "title": "Ceza Davaları",
-        "image": "/images/icons/litigition-law.svg",
+        "name": "Mehmet Yavuz Sancaktaroğlu",
+        "date": "2019-01-23T00:00:00.000Z",
+        "image": "/images/yavuz.jpg",
         "order": "2",
+        "expertise": "Avukat",
+        "email": "av.yavuzsancaktaroglu@gmail.com",
+        "phone": "+90 507 384 48 20",
         "body": {
-          "raw": "\nLitigation is the process of resolving disputes through the court system, typically involving two or more parties seeking a legal remedy or asserting their rights. Lawyers specializing in litigation, often referred to as litigators, play a central role in representing clients in civil lawsuits, criminal cases, administrative hearings, and other legal proceedings. These attorneys possess a strong understanding of procedural rules, evidence, and courtroom strategies, enabling them to effectively advocate for their clients' interests in judicial forums.\n\nLitigators handle a wide range of legal matters, including contract disputes, personal injury claims, employment disputes, family law matters, and complex commercial litigation. They work closely with clients to assess the strengths and weaknesses of their cases, develop legal strategies, and pursue favorable outcomes through negotiation, mediation, arbitration, or trial. Litigators are adept at conducting thorough legal research, gathering evidence, preparing legal documents, and presenting persuasive arguments in court to protect their clients' rights and achieve their objectives.\n\nThe litigation process can be complex and time-consuming, requiring litigators to navigate procedural rules, deadlines, and court procedures with precision and diligence. From pre-trial motions and discovery to trial advocacy and post-trial appeals, litigators guide clients through each stage of the legal process, providing strategic advice and advocacy at every step. By leveraging their advocacy skills and legal expertise, litigators help clients navigate legal disputes effectively, seeking resolution through the judicial system while advocating for their clients' interests and upholding the principles of justice.\n",
-          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var a in t)s(e,a,{get:t[a],enumerable:!0})},o=(e,t,a,n)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of u(t))!v.call(e,r)&&r!==a&&s(e,r,{get:()=>t[r],enumerable:!(n=h(t,r))||n.enumerable});return e};var w=(e,t,a)=>(a=e!=null?p(m(e)):{},o(t||!e||!e.__esModule?s(a,\"default\",{value:e,enumerable:!0}):a,e)),x=e=>o(s({},\"__esModule\",{value:!0}),e);var c=y((k,l)=>{l.exports=_jsx_runtime});var _={};f(_,{default:()=>d,frontmatter:()=>j});var i=w(c()),j={title:\"Ceza Davalar\\u0131\",type:\"Practicing\",order:\"2\",image:\"/images/icons/litigition-law.svg\"};function g(e){let t={p:\"p\",...e.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.p,{children:\"Litigation is the process of resolving disputes through the court system, typically involving two or more parties seeking a legal remedy or asserting their rights. Lawyers specializing in litigation, often referred to as litigators, play a central role in representing clients in civil lawsuits, criminal cases, administrative hearings, and other legal proceedings. These attorneys possess a strong understanding of procedural rules, evidence, and courtroom strategies, enabling them to effectively advocate for their clients' interests in judicial forums.\"}),`\n`,(0,i.jsx)(t.p,{children:\"Litigators handle a wide range of legal matters, including contract disputes, personal injury claims, employment disputes, family law matters, and complex commercial litigation. They work closely with clients to assess the strengths and weaknesses of their cases, develop legal strategies, and pursue favorable outcomes through negotiation, mediation, arbitration, or trial. Litigators are adept at conducting thorough legal research, gathering evidence, preparing legal documents, and presenting persuasive arguments in court to protect their clients' rights and achieve their objectives.\"}),`\n`,(0,i.jsx)(t.p,{children:\"The litigation process can be complex and time-consuming, requiring litigators to navigate procedural rules, deadlines, and court procedures with precision and diligence. From pre-trial motions and discovery to trial advocacy and post-trial appeals, litigators guide clients through each stage of the legal process, providing strategic advice and advocacy at every step. By leveraging their advocacy skills and legal expertise, litigators help clients navigate legal disputes effectively, seeking resolution through the judicial system while advocating for their clients' interests and upholding the principles of justice.\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(g,{...e})}):g(e)}return x(_);})();\n;return Component;"
+          "raw": "\nMike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\n",
+          "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),v=(e,a)=>{for(var t in a)o(e,t,{get:a[t],enumerable:!0})},s=(e,a,t,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let n of g(a))!f.call(e,n)&&n!==t&&o(e,n,{get:()=>a[n],enumerable:!(r=d(a,n))||r.enumerable});return e};var y=(e,a,t)=>(t=e!=null?p(h(e)):{},s(a||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),k=e=>s(o({},\"__esModule\",{value:!0}),e);var m=x((w,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>u,frontmatter:()=>M});var i=y(m()),M={name:\"Mehmet Yavuz Sancaktaro\\u011Flu\",type:\"Attorney\",date:\"2019-01-23\",order:\"2\",expertise:\"Avukat\",image:\"/images/yavuz.jpg\",phone:\"+90 507 384 48 20\",email:\"av.yavuzsancaktaroglu@gmail.com\"};function l(e){let a={p:\"p\",...e.components};return(0,i.jsx)(a.p,{children:\"Mike Thompson is a seasoned corporate attorney renowned for his strategic approach and business acumen. He earned his JD from Stanford Law School and quickly climbed the ranks in prestigious law firms, advising multinational corporations on mergers, acquisitions, and complex contractual negotiations. His clients value his sharp legal insights and ability to navigate intricate corporate landscapes.\"})}function u(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(l,{...e})}):l(e)}return k(_);})();\n;return Component;"
         },
-        "_id": "practicing-area/02-litigation.mdx",
+        "_id": "attorneys/02-yavuzsancaktaroglu.mdx",
         "_raw": {
-          "sourceFilePath": "practicing-area/02-litigation.mdx",
-          "sourceFileName": "02-litigation.mdx",
-          "sourceFileDir": "practicing-area",
+          "sourceFilePath": "attorneys/02-yavuzsancaktaroglu.mdx",
+          "sourceFileName": "02-yavuzsancaktaroglu.mdx",
+          "sourceFileDir": "attorneys",
           "contentType": "mdx",
-          "flattenedPath": "practicing-area/02-litigation"
+          "flattenedPath": "attorneys/02-yavuzsancaktaroglu"
         },
-        "type": "Practicing",
-        "url": "/practicing-area/02-litigation"
+        "type": "Attorney",
+        "url": "/attorneys/02-yavuzsancaktaroglu"
       },
-      "documentHash": "1766054660402",
+      "documentHash": "1766061026680",
       "hasWarnings": false,
-      "documentTypeName": "Practicing"
-    },
-    "practicing-area/03-contract-review-and-drafting.mdx": {
-      "document": {
-        "title": "Mal ve Tapu Davaları",
-        "image": "/images/icons/contract-review-and-drafting-law.svg",
-        "order": "3",
-        "body": {
-          "raw": "\nContract review and drafting are essential aspects of legal practice, involving the examination, analysis, and creation of legally binding agreements between parties. Lawyers specializing in contract review and drafting play a crucial role in ensuring that contracts accurately reflect the intentions and interests of their clients while mitigating potential risks and liabilities. These attorneys possess expertise in contract law and negotiation strategies, enabling them to draft clear, comprehensive agreements tailored to their clients' needs and objectives.\n\nDuring the contract review process, lawyers meticulously examine the terms and conditions of existing contracts to identify potential pitfalls, ambiguities, or areas of concern. They assess the legal implications of contract provisions, such as obligations, warranties, indemnification clauses, and dispute resolution mechanisms, to help clients make informed decisions and protect their interests. Additionally, contract review involves evaluating compliance with relevant laws and regulations, ensuring that contracts are enforceable and legally binding.\n\nIn contract drafting, lawyers collaborate with clients to create new contracts or revise existing agreements to reflect their specific requirements and objectives. They translate the parties' intentions into precise legal language, drafting clauses and provisions that address key issues, allocate risks, and establish rights and responsibilities clearly. Contract drafting requires attention to detail, creativity, and foresight to anticipate and address potential disputes or contingencies effectively. By providing comprehensive contract review and drafting services, lawyers help clients minimize legal risks, safeguard their interests, and facilitate successful business transactions and relationships.\n",
-          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var v=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var n in t)s(e,n,{get:t[n],enumerable:!0})},o=(e,t,n,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of f(t))!u.call(e,a)&&a!==n&&s(e,a,{get:()=>t[a],enumerable:!(r=h(t,a))||r.enumerable});return e};var w=(e,t,n)=>(n=e!=null?p(m(e)):{},o(t||!e||!e.__esModule?s(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>o(s({},\"__esModule\",{value:!0}),e);var l=v((k,c)=>{c.exports=_jsx_runtime});var j={};y(j,{default:()=>g,frontmatter:()=>x});var i=w(l()),x={title:\"Mal ve Tapu Davalar\\u0131\",type:\"Practicing\",order:\"3\",image:\"/images/icons/contract-review-and-drafting-law.svg\"};function d(e){let t={p:\"p\",...e.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.p,{children:\"Contract review and drafting are essential aspects of legal practice, involving the examination, analysis, and creation of legally binding agreements between parties. Lawyers specializing in contract review and drafting play a crucial role in ensuring that contracts accurately reflect the intentions and interests of their clients while mitigating potential risks and liabilities. These attorneys possess expertise in contract law and negotiation strategies, enabling them to draft clear, comprehensive agreements tailored to their clients' needs and objectives.\"}),`\n`,(0,i.jsx)(t.p,{children:\"During the contract review process, lawyers meticulously examine the terms and conditions of existing contracts to identify potential pitfalls, ambiguities, or areas of concern. They assess the legal implications of contract provisions, such as obligations, warranties, indemnification clauses, and dispute resolution mechanisms, to help clients make informed decisions and protect their interests. Additionally, contract review involves evaluating compliance with relevant laws and regulations, ensuring that contracts are enforceable and legally binding.\"}),`\n`,(0,i.jsx)(t.p,{children:\"In contract drafting, lawyers collaborate with clients to create new contracts or revise existing agreements to reflect their specific requirements and objectives. They translate the parties' intentions into precise legal language, drafting clauses and provisions that address key issues, allocate risks, and establish rights and responsibilities clearly. Contract drafting requires attention to detail, creativity, and foresight to anticipate and address potential disputes or contingencies effectively. By providing comprehensive contract review and drafting services, lawyers help clients minimize legal risks, safeguard their interests, and facilitate successful business transactions and relationships.\"})]})}function g(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(d,{...e})}):d(e)}return b(j);})();\n;return Component;"
-        },
-        "_id": "practicing-area/03-contract-review-and-drafting.mdx",
-        "_raw": {
-          "sourceFilePath": "practicing-area/03-contract-review-and-drafting.mdx",
-          "sourceFileName": "03-contract-review-and-drafting.mdx",
-          "sourceFileDir": "practicing-area",
-          "contentType": "mdx",
-          "flattenedPath": "practicing-area/03-contract-review-and-drafting"
-        },
-        "type": "Practicing",
-        "url": "/practicing-area/03-contract-review-and-drafting"
-      },
-      "documentHash": "1766054660402",
-      "hasWarnings": false,
-      "documentTypeName": "Practicing"
-    },
-    "practicing-area/04-family-law.mdx": {
-      "document": {
-        "title": "Şirket Avukatlığı",
-        "image": "/images/icons/family-law.svg",
-        "order": "4",
-        "body": {
-          "raw": "\nFamily law is a specialized area of legal practice that deals with matters relating to familial relationships and domestic issues. Family lawyers assist clients in navigating complex and emotionally charged situations such as divorce, child custody disputes, adoption, and domestic violence. These attorneys provide compassionate yet strategic guidance, advocating for their clients' rights and interests while seeking fair and equitable resolutions to family-related legal matters.\n\nOne of the primary focuses of family law is divorce proceedings, where lawyers help clients dissolve their marriages and address associated issues such as division of assets, spousal support, and child custody and visitation arrangements. Family lawyers work to protect their clients' financial interests and parental rights while guiding them through the legal process with sensitivity and empathy. They may also facilitate negotiations between spouses to reach amicable agreements or represent clients in court to resolve contested issues through litigation when necessary.\n\nIn addition to divorce cases, family lawyers handle a wide range of other family-related matters, including adoption, paternity disputes, and domestic violence restraining orders. These attorneys provide legal advice, representation, and advocacy to individuals and families facing challenging circumstances, working to secure favorable outcomes and promote the well-being of their clients and their loved ones. With their expertise in family law, these attorneys serve as trusted advisors, helping clients navigate the complexities of the legal system while providing support and guidance during difficult times in their lives.\n",
-          "code": "var Component=(()=>{var m=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),v=(e,i)=>{for(var s in i)n(e,s,{get:i[s],enumerable:!0})},o=(e,i,s,r)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let a of p(i))!y.call(e,a)&&a!==s&&n(e,a,{get:()=>i[a],enumerable:!(r=g(i,a))||r.enumerable});return e};var w=(e,i,s)=>(s=e!=null?m(u(e)):{},o(i||!e||!e.__esModule?n(s,\"default\",{value:e,enumerable:!0}):s,e)),x=e=>o(n({},\"__esModule\",{value:!0}),e);var c=f((k,l)=>{l.exports=_jsx_runtime});var b={};v(b,{default:()=>h,frontmatter:()=>_});var t=w(c()),_={title:\"\\u015Eirket Avukatl\\u0131\\u011F\\u0131\",type:\"Practicing\",order:\"4\",image:\"/images/icons/family-law.svg\"};function d(e){let i={p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(i.p,{children:\"Family law is a specialized area of legal practice that deals with matters relating to familial relationships and domestic issues. Family lawyers assist clients in navigating complex and emotionally charged situations such as divorce, child custody disputes, adoption, and domestic violence. These attorneys provide compassionate yet strategic guidance, advocating for their clients' rights and interests while seeking fair and equitable resolutions to family-related legal matters.\"}),`\n`,(0,t.jsx)(i.p,{children:\"One of the primary focuses of family law is divorce proceedings, where lawyers help clients dissolve their marriages and address associated issues such as division of assets, spousal support, and child custody and visitation arrangements. Family lawyers work to protect their clients' financial interests and parental rights while guiding them through the legal process with sensitivity and empathy. They may also facilitate negotiations between spouses to reach amicable agreements or represent clients in court to resolve contested issues through litigation when necessary.\"}),`\n`,(0,t.jsx)(i.p,{children:\"In addition to divorce cases, family lawyers handle a wide range of other family-related matters, including adoption, paternity disputes, and domestic violence restraining orders. These attorneys provide legal advice, representation, and advocacy to individuals and families facing challenging circumstances, working to secure favorable outcomes and promote the well-being of their clients and their loved ones. With their expertise in family law, these attorneys serve as trusted advisors, helping clients navigate the complexities of the legal system while providing support and guidance during difficult times in their lives.\"})]})}function h(e={}){let{wrapper:i}=e.components||{};return i?(0,t.jsx)(i,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return x(b);})();\n;return Component;"
-        },
-        "_id": "practicing-area/04-family-law.mdx",
-        "_raw": {
-          "sourceFilePath": "practicing-area/04-family-law.mdx",
-          "sourceFileName": "04-family-law.mdx",
-          "sourceFileDir": "practicing-area",
-          "contentType": "mdx",
-          "flattenedPath": "practicing-area/04-family-law"
-        },
-        "type": "Practicing",
-        "url": "/practicing-area/04-family-law"
-      },
-      "documentHash": "1766054660402",
-      "hasWarnings": false,
-      "documentTypeName": "Practicing"
-    },
-    "practicing-area/05-is-kazasi-tazminatlari.mdx": {
-      "document": {
-        "title": "İş Kazası Tazminatları",
-        "image": "/images/icons/work-accident.svg",
-        "order": "5",
-        "body": {
-          "raw": "\nİş kazası tazminatları ile ilgili içerik buraya gelecek...\n",
-          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),k=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of d(e))!f.call(t,a)&&a!==n&&r(t,a,{get:()=>e[a],enumerable:!(o=x(e,a))||o.enumerable});return t};var z=(t,e,n)=>(n=t!=null?p(g(t)):{},c(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((w,s)=>{s.exports=_jsx_runtime});var M={};k(M,{default:()=>u,frontmatter:()=>y});var i=z(m()),y={title:\"\\u0130\\u015F Kazas\\u0131 Tazminatlar\\u0131\",type:\"Practicing\",order:\"5\",image:\"/images/icons/work-accident.svg\"};function l(t){let e={p:\"p\",...t.components};return(0,i.jsx)(e.p,{children:\"\\u0130\\u015F kazas\\u0131 tazminatlar\\u0131 ile ilgili i\\xE7erik buraya gelecek...\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,{...t,children:(0,i.jsx)(l,{...t})}):l(t)}return j(M);})();\n;return Component;"
-        },
-        "_id": "practicing-area/05-is-kazasi-tazminatlari.mdx",
-        "_raw": {
-          "sourceFilePath": "practicing-area/05-is-kazasi-tazminatlari.mdx",
-          "sourceFileName": "05-is-kazasi-tazminatlari.mdx",
-          "sourceFileDir": "practicing-area",
-          "contentType": "mdx",
-          "flattenedPath": "practicing-area/05-is-kazasi-tazminatlari"
-        },
-        "type": "Practicing",
-        "url": "/practicing-area/05-is-kazasi-tazminatlari"
-      },
-      "documentHash": "1766055685319",
-      "hasWarnings": false,
-      "documentTypeName": "Practicing"
-    },
-    "practicing-area/06-tazminat-davalari.mdx": {
-      "document": {
-        "title": "Tazminat Davaları",
-        "image": "/images/icons/compensation.svg",
-        "order": "6",
-        "body": {
-          "raw": "\nTazminat davaları ile ilgili içerik...\n",
-          "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)o(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,r)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of d(n))!g.call(t,i)&&i!==e&&o(t,i,{get:()=>n[i],enumerable:!(r=x(n,i))||r.enumerable});return t};var v=(t,n,e)=>(e=t!=null?u(f(t)):{},c(n||!t||!t.__esModule?o(e,\"default\",{value:t,enumerable:!0}):e,t)),D=t=>c(o({},\"__esModule\",{value:!0}),t);var s=_((z,m)=>{m.exports=_jsx_runtime});var h={};j(h,{default:()=>p,frontmatter:()=>M});var a=v(s()),M={title:\"Tazminat Davalar\\u0131\",type:\"Practicing\",order:\"6\",image:\"/images/icons/compensation.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,a.jsx)(n.p,{children:\"Tazminat davalar\\u0131 ile ilgili i\\xE7erik...\"})}function p(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,{...t,children:(0,a.jsx)(l,{...t})}):l(t)}return D(h);})();\n;return Component;"
-        },
-        "_id": "practicing-area/06-tazminat-davalari.mdx",
-        "_raw": {
-          "sourceFilePath": "practicing-area/06-tazminat-davalari.mdx",
-          "sourceFileName": "06-tazminat-davalari.mdx",
-          "sourceFileDir": "practicing-area",
-          "contentType": "mdx",
-          "flattenedPath": "practicing-area/06-tazminat-davalari"
-        },
-        "type": "Practicing",
-        "url": "/practicing-area/06-tazminat-davalari"
-      },
-      "documentHash": "1766055685321",
-      "hasWarnings": false,
-      "documentTypeName": "Practicing"
-    },
-    "practicing-area/07-sigorta-tazminati.mdx": {
-      "document": {
-        "title": "Sigorta Tazminatı",
-        "image": "/images/icons/insurance.svg",
-        "order": "7",
-        "body": {
-          "raw": "\nSigorta tazminatları ile ilgili içerik...\n",
-          "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of x(n))!f.call(t,i)&&i!==e&&r(t,i,{get:()=>n[i],enumerable:!(a=p(n,i))||a.enumerable});return t};var M=(t,n,e)=>(e=t!=null?g(d(t)):{},c(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),h=t=>c(r({},\"__esModule\",{value:!0}),t);var m=_((D,s)=>{s.exports=_jsx_runtime});var z={};j(z,{default:()=>u,frontmatter:()=>y});var o=M(m()),y={title:\"Sigorta Tazminat\\u0131\",type:\"Practicing\",order:\"7\",image:\"/images/icons/insurance.svg\"};function l(t){let n={p:\"p\",...t.components};return(0,o.jsx)(n.p,{children:\"Sigorta tazminatlar\\u0131 ile ilgili i\\xE7erik...\"})}function u(t={}){let{wrapper:n}=t.components||{};return n?(0,o.jsx)(n,{...t,children:(0,o.jsx)(l,{...t})}):l(t)}return h(z);})();\n;return Component;"
-        },
-        "_id": "practicing-area/07-sigorta-tazminati.mdx",
-        "_raw": {
-          "sourceFilePath": "practicing-area/07-sigorta-tazminati.mdx",
-          "sourceFileName": "07-sigorta-tazminati.mdx",
-          "sourceFileDir": "practicing-area",
-          "contentType": "mdx",
-          "flattenedPath": "practicing-area/07-sigorta-tazminati"
-        },
-        "type": "Practicing",
-        "url": "/practicing-area/07-sigorta-tazminati"
-      },
-      "documentHash": "1766055685323",
-      "hasWarnings": false,
-      "documentTypeName": "Practicing"
+      "documentTypeName": "Attorney"
     }
   }
 }

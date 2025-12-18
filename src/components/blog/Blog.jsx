@@ -15,7 +15,6 @@ const Items = ({ currentItems }) => {
       {currentItems &&
         currentItems.map((blog, index) => {
           index *= 0.05;
-          const formattedDate = format(new Date(blog.date), "MMMM dd, yyyy");
           return (
             <motion.div
               initial={{ opacity: 0, y: 20 }}
