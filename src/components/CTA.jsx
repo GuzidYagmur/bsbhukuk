@@ -16,7 +16,7 @@ const ctaContent = {
     title: "Avukat",
     phone: {
       label: "Bizi Arayın",
-      number: "+905073844820",
+      number: "05073844820",
     },
     email: {
       label: "Mail Atmak için:",
@@ -42,7 +42,7 @@ const ctaContent = {
     title: "Avukat",
     phone: {
       label: "Bizi Arayın",
-      number: "",
+      number: "05389426280",
     },
     email: {
       label: "Mail Atmak için:",
